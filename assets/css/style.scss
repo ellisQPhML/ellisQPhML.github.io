@@ -6,7 +6,8 @@
   color: $header-heading-color;
   text-align: center;
   background-color: $header-bg-color;
-  background-image: url(../images/MiNiTu.png) no-repeat;
+  background-image: url(../images/MiNiTu.png);
+  background-repeat: no-repeat;
 
   @include large {
     padding: 5rem 6rem;
