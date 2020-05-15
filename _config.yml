@@ -2,6 +2,8 @@ theme: jekyll-theme-cayman
 title: Ellis QPhML 2020 Virtual Meeting
 description: Hope that it works
 
+logo: /assets/images/MiNiTu.png
+
 plugins:
   - jekyll-relative-links
 relative_links:
