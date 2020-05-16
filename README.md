@@ -124,7 +124,7 @@ The program is part of the recent European initiative called [**ELLIS**](https:/
 
 | Time          | Talk      | Link     |
 | ------------- | ------------- | -----:|
-| 09:00      | **Jens Eisert**: _"Probabilistic Modelling with Tensor Networks - A Bridge from Graphical Models to Quantum Circuits"_ | [video](https://www.youtube.com/watch?v=uxiP6K56bHo) |
+| 09:00      | **Jens Eisert**: _"Probabilistic Modelling with Tensor Networks - A Bridge from Graphical Models to Quantum Circuits"_ | [[video](https://www.youtube.com/watch?v=uxiP6K56bHo), [paper](https://www.google.com)] |
 | 09:45      | **Glen Mbeng**: _"Reinforcement Learning assisted Quantum Optimization"_     |   link |
 | 10:30 | **Alexandre Tkatchenko**: _"Unifying Quantum Chemistry and Machine Learning"_      |   link |
 
