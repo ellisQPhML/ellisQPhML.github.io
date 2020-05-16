@@ -25,6 +25,15 @@ $section-headings-color: #bd4200;
   }
 }
 
+/* see if it helps with mobile devices */
+@media (max-width: 480px){
+  .logo img {
+      width: 100%;
+      height: 100%;
+  }
+}
+
+
 /* added by me to try to customize the navigation bar */
 ul {
   /* fixed-top */
