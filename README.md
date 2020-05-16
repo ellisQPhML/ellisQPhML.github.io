@@ -1,5 +1,7 @@
 # Ellis QPhML 2020
 
+![Ellis Logo](assets/images/ellis-logo-transparent-1.png)
+
 The aim of the Ellis program Quantum and Physics based machine learning (QPhML) is to use concepts from Quantum Physics and Statistical Physics to develop novel machine learning algorithms with the ultimate aim to realize novel future, possibly energy efficient, hardware implementations.
 
 The program is part of the recent European initiative called [ELLIS](https://ellis.eu/) (European Laboratory for Learning and Intelligent Systems) to stimulate research on machine learning by building networks of top reseach groups in Europe. 
