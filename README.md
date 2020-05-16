@@ -22,6 +22,8 @@ The program is part of the recent European initiative called [ELLIS](https://ell
 
 [Ton Coolen](www.google.com): _"Replica analysis of overfitting in generalized linear regression models"_
 
+***
+
 ### Quantum ideas for Machine Learning 
 
 [Jens Eisert](www.google.com): _"Probabilistic Modelling with Tensor Networks - A Bridge from Graphical Models to Quantum Circuits"_
@@ -72,7 +74,7 @@ The program is part of the recent European initiative called [ELLIS](https://ell
 
 [Alexandre Tkatchenko](): _"Unifying Quantum Chemistry and Machine Learning"_
 
-[Anatole von Lilienfeld](): _"Quantum Machine Learning in Chemical Compound Space"_
+- [Anatole von Lilienfeld](): _"Quantum Machine Learning in Chemical Compound Space"_
 
 # Program 
 
