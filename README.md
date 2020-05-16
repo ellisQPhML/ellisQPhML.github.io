@@ -10,9 +10,15 @@ The program is part of the recent European initiative called [ELLIS](https://ell
 
 [Florent Krzakala](www.google.com): _TBA_
 
+***
+
 [Florian Marquardt](www.google.com): _"Self-learning machines based on nonlinear field evolution"_
 
+***
+
 [Carlo Baldassi](www.google.com): _TBA_
+
+***
 
 [Ton Coolen](www.google.com): _"Replica analysis of overfitting in generalized linear regression models"_
 
@@ -64,9 +70,9 @@ The program is part of the recent European initiative called [ELLIS](https://ell
 
 [Leonard Wossnig](): _TBA (Machine learning for quantum chemistry)_
 
-+ [Alexandre Tkatchenko](): _"Unifying Quantum Chemistry and Machine Learning"_
+[Alexandre Tkatchenko](): _"Unifying Quantum Chemistry and Machine Learning"_
 
-+ [Anatole von Lilienfeld](): _"Quantum Machine Learning in Chemical Compound Space"_
+[Anatole von Lilienfeld](): _"Quantum Machine Learning in Chemical Compound Space"_
 
 # Program 
 
