@@ -86,7 +86,7 @@ The program is part of the recent European initiative called [ELLIS](https://ell
 | 09:45      | **Glen Mbeng**: _"Reinforcement Learning assisted Quantum Optimization"_     |   link |
 | 10:30 | **Alexandre Tkatchenko**: _"Unifying Quantum Chemistry and Machine Learning"_      |   link |
 
-### Day one  (08-07-2020)
+### Day three  (08-07-2020)
 
 | Time          | Talk      | Video     |
 | ------------- | ------------- | -----:|
