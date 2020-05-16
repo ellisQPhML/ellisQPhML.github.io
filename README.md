@@ -120,15 +120,15 @@ The program is part of the recent European initiative called [ELLIS](https://ell
 
 ### Day one (06-07-2020)
 
-| Time          | Talk      | Video     |
+| Time          | Talk      | Link     |
 | ------------- | ------------- | -----:|
-| 09:00      | **Jens Eisert**: _"Probabilistic Modelling with Tensor Networks - A Bridge from Graphical Models to Quantum Circuits"_ | link |
+| 09:00      | **Jens Eisert**: _"Probabilistic Modelling with Tensor Networks - A Bridge from Graphical Models to Quantum Circuits"_ | [video](https://www.youtube.com/watch?v=uxiP6K56bHo) |
 | 09:45      | **Glen Mbeng**: _"Reinforcement Learning assisted Quantum Optimization"_     |   link |
 | 10:30 | **Alexandre Tkatchenko**: _"Unifying Quantum Chemistry and Machine Learning"_      |   link |
 
 ### Day two  (07-07-2020)
 
-| Time          | Talk      | Video     |
+| Time          | Talk      | Link     |
 | ------------- | ------------- | -----:|
 | 09:00      | **Jens Eisert**: _"Probabilistic Modelling with Tensor Networks - A Bridge from Graphical Models to Quantum Circuits"_ | link |
 | 09:45      | **Glen Mbeng**: _"Reinforcement Learning assisted Quantum Optimization"_     |   link |
@@ -136,7 +136,7 @@ The program is part of the recent European initiative called [ELLIS](https://ell
 
 ### Day three  (08-07-2020)
 
-| Time          | Talk      | Video     |
+| Time          | Talk      | Link     |
 | ------------- | ------------- | -----:|
 | 09:00      | **Jens Eisert**: _"Probabilistic Modelling with Tensor Networks - A Bridge from Graphical Models to Quantum Circuits"_ | link |
 | 09:45      | **Glen Mbeng**: _"Reinforcement Learning assisted Quantum Optimization"_     |   link |
