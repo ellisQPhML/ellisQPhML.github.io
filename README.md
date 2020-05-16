@@ -6,8 +6,6 @@ The program is part of the recent European initiative called [ELLIS](https://ell
 
 # Speakers 
 
-maybe something
-
 ### Statistical Physics of Machine Learning 
 
 [Florent Krzakala](www.google.com): _TBA_
@@ -66,9 +64,9 @@ maybe something
 
 [Leonard Wossnig](): _TBA (Machine learning for quantum chemistry)_
 
-[Alexandre Tkatchenko](): _"Unifying Quantum Chemistry and Machine Learning"_
++ [Alexandre Tkatchenko](): _"Unifying Quantum Chemistry and Machine Learning"_
 
-[Anatole von Lilienfeld](): _"Quantum Machine Learning in Chemical Compound Space"_
++ [Anatole von Lilienfeld](): _"Quantum Machine Learning in Chemical Compound Space"_
 
 # Program 
 
