@@ -26,7 +26,7 @@ $section-headings-color: #bd4200;
 }
 
 /* added by me to try to customize the navigation bar */
-ul {
+.navbar > ul {
   /* fixed-top */
   position: fixed;
   top: 0;
@@ -39,11 +39,11 @@ ul {
   background-color: #333;
 }
 
-.navbar > li {
+li {
   float: left;
 }
 
-.navbar > li a {
+li a {
   display: block;
   color: white;
   text-align: center;
@@ -52,7 +52,7 @@ ul {
 }
 
 /* Change the link color to #111 (black) on hover */
-.navbar > li a:hover {
+li a:hover {
   background-color: #111;
 }
 
