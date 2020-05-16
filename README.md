@@ -1,58 +1,54 @@
 # Ellis QPhML 2020
 
-About the conference
+The aim of the Ellis program Quantum and Physics based machine learning (QPhML) is to use concepts from Quantum Physics and Statistical Physics to develop novel machine learning algorithms with the ultimate aim to realize novel future, possibly energy efficient, hardware implementations.
 
-## Speakers 
+The program is part of the recent European initiative called [ELLIS](https://ellis.eu/) (European Laboratory for Learning and Intelligent Systems) to stimulate research on machine learning by building networks of top reseach groups in Europe. 
+
+# Speakers 
 
 maybe something
 
 ### Statistical Physics of Machine Learning 
 
-[Florent Krzakala/Lenka Zdeborova](www.google.com): _TBA_
-
---- 
-
-[Florian Marquardt](www.google.com): _Self-learning machines based on nonlinear field evolution_
-
+[Florent Krzakala](www.google.com): _TBA_
 ***
-
-[Carlo Baldassi/Riccardo Zecchina](www.google.com): _TBA_
-
-___
-
-[Ton Coolen](www.google.com): _Replica analysis of overfitting in generalized linear regression models_
+[Florian Marquardt](www.google.com): _"Self-learning machines based on nonlinear field evolution"_
+***
+[Carlo Baldassi](www.google.com): _TBA_
+***
+[Ton Coolen](www.google.com): _"Replica analysis of overfitting in generalized linear regression models"_
 
 ### Quantum ideas for Machine Learning 
 
-[Jens Eisert/Ryan Sweke](www.google.com): _Probabilistic Modelling with Tensor Networks - A Bridge from Graphical Models to Quantum Circuits_
-
-[Aram Harrow](www.google.com): _Small quantum computers and big classical data sets_
-
+[Jens Eisert/Ryan Sweke](www.google.com): _"Probabilistic Modelling with Tensor Networks - A Bridge from Graphical Models to Quantum Circuits"_
+***
+[Aram Harrow](www.google.com): _"Small quantum computers and big classical data sets"_
+***
 [Manfred Opper](www.google.com): _TBA_
-
-[Andrea Rocchetto](www.google.com): _No exponential speedups for practical quantum machine learning algorithms_
-
-[Vedran Dunjko](www.google.com): _Quantum algorithms for reinforcement learning_
-
-[Eduardo Dominguez](www.google.com): _Quantum approximate inference through message passing (tentative title)_
-
-[Christian Gogolin](www.google.com): _Quantum many-body systems - understanding them with and using them as new machine learning tools_
-
-[Masuyuki Ohzeki](www.google.com): _Quantum annealing and machine learning - learning and Black-box optimization_
-
-[Laurent Daudet](): _Mix and Match: leveraging optically-created random embeddings in Machine Learning pipelines_
-
+***
+[Andrea Rocchetto](www.google.com): _"No exponential speedups for practical quantum machine learning algorithms"_
+***
+[Vedran Dunjko](www.google.com): _"Quantum algorithms for reinforcement learning"_
+***
+[Eduardo Dominguez](www.google.com): _"Quantum approximate inference through message passing (tentative title)"_
+***
+[Christian Gogolin](www.google.com): _"Quantum many-body systems - understanding them with and using them as new machine learning tools"_
+***
+[Masuyuki Ohzeki](www.google.com): _"Quantum annealing and machine learning - learning and Black-box optimization"_
+***
+[Laurent Daudet](): _"Mix and Match: leveraging optically-created random embeddings in Machine Learning pipelines"_
+***
 [Hussein Sadeghi/Mohammad Amin](): _TBA_
-
-[Volker Tresp](): _Quantum Machine Learning Algorithms for Knowledge Graphs_
-
-[Max Welling/Roberto Bondason](): _Quantum Deformed Binary Neural Networks_
+***
+[Volker Tresp](): _"Quantum Machine Learning Algorithms for Knowledge Graphs"_
+***
+[Max Welling/Roberto Bondason](): _"Quantum Deformed Binary Neural Networks"_
 
 ### Machine Learning in Complex Systems 
 
-[Gabor Csanyi](): _Machine learning the quantum mechanics of materials and molecules_
+[Gabor Csanyi](): _"Machine learning the quantum mechanics of materials and molecules"_
 
-[Luca Biferale/Michele Buzzicotti](): _Equation informed and data-driven tools for data-assimilation and data-classiﬁcation of turbulent ﬂows_
+[Luca Biferale](): _"Equation informed and data-driven tools for data-assimilation and data-classiﬁcation of turbulent ﬂows"_
 
 [Antonio Celani](): _TBA (physics view of biology)_
 
@@ -60,22 +56,46 @@ ___
 
 ### Machine Learning for Quantum Physics
 
-[Glen Mbeng/ Giuseppe Santoro](): _Reinforcement Learning assisted Quantum Optimization_
+[Glen Mbeng](): _"Reinforcement Learning assisted Quantum Optimization"_
 
-[Giuseppe Carleo](): _Generative and variational modeling for interacting quantum systems_
+[Giuseppe Carleo](): _"Generative and variational modeling for interacting quantum systems"_
 
-[Hans Briegel](): _Reinforcement learning and AI for quantum experiment_
+[Hans Briegel](): _"Reinforcement learning and AI for quantum experiment"_
 
-[Christopher Sutton](): _Assessing machine learning model reliability_
+[Christopher Sutton](): _"Assessing machine learning model reliability"_
 
 [Leonard Wossnig](): _TBA (Machine learning for quantum chemistry)_
 
-[Alexandre Tkatchenko](): _Unifying Quantum Chemistry and Machine Learning_
+[Alexandre Tkatchenko](): _"Unifying Quantum Chemistry and Machine Learning"_
 
-[Anatole von Lilienfeld](): _Quantum Machine Learning in Chemical Compound Space_
+[Anatole von Lilienfeld](): _"Quantum Machine Learning in Chemical Compound Space"_
 
-## Program 
-here goes day by day schedule 
+# Program 
 
-## Organizers
+### Day one (06-07-2020)
+
+| Time          | Talk      | Video     |
+| ------------- | ------------- | -----:|
+| 09:00      | **Jens Eisert**: _"Probabilistic Modelling with Tensor Networks - A Bridge from Graphical Models to Quantum Circuits"_ | link |
+| 09:45      | **Glen Mbeng**: _"Reinforcement Learning assisted Quantum Optimization"_     |   link |
+| 10:30 | **Alexandre Tkatchenko**: _"Unifying Quantum Chemistry and Machine Learning"_      |   link |
+
+### Day two  (07-07-2020)
+
+| Time          | Talk      | Video     |
+| ------------- | ------------- | -----:|
+| 09:00      | **Jens Eisert**: _"Probabilistic Modelling with Tensor Networks - A Bridge from Graphical Models to Quantum Circuits"_ | link |
+| 09:45      | **Glen Mbeng**: _"Reinforcement Learning assisted Quantum Optimization"_     |   link |
+| 10:30 | **Alexandre Tkatchenko**: _"Unifying Quantum Chemistry and Machine Learning"_      |   link |
+
+### Day one  (08-07-2020)
+
+| Time          | Talk      | Video     |
+| ------------- | ------------- | -----:|
+| 09:00      | **Jens Eisert**: _"Probabilistic Modelling with Tensor Networks - A Bridge from Graphical Models to Quantum Circuits"_ | link |
+| 09:45      | **Glen Mbeng**: _"Reinforcement Learning assisted Quantum Optimization"_     |   link |
+| 10:30 | **Alexandre Tkatchenko**: _"Unifying Quantum Chemistry and Machine Learning"_      |   link |
+
+
+# Organizers
 who are the organizers?
