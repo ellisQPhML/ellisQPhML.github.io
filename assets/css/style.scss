@@ -27,6 +27,11 @@ $section-headings-color: #7d2d02;
 
 /* added by me to try to customize the navigation bar */
 ul {
+  /* fixed-top */
+  position: fixed;
+  top: 0;
+  width: 100%;
+  /* end fixed-top */
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -49,4 +54,9 @@ li a {
 /* Change the link color to #111 (black) on hover */
 li a:hover {
   background-color: #111;
+}
+
+/* highlight wiht color the selected section */
+.active {
+  background-color: #4CAF50;
 }
