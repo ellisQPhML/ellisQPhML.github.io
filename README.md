@@ -8,8 +8,6 @@ The program is part of the recent European initiative called [ELLIS](https://ell
 
 ### Statistical Physics of Machine Learning 
 
-***
-
 [Florent Krzakala](www.google.com): _TBA_
 
 ***
@@ -24,11 +22,7 @@ The program is part of the recent European initiative called [ELLIS](https://ell
 
 [Ton Coolen](www.google.com): _"Replica analysis of overfitting in generalized linear regression models"_
 
-***
-
 ### Quantum ideas for Machine Learning 
-
-***
 
 [Jens Eisert](www.google.com): _"Probabilistic Modelling with Tensor Networks - A Bridge from Graphical Models to Quantum Circuits"_
 
@@ -78,8 +72,6 @@ The program is part of the recent European initiative called [ELLIS](https://ell
 
 ### Machine Learning in Complex Systems 
 
-***
-
 [Gabor Csanyi](): _"Machine learning the quantum mechanics of materials and molecules"_
 
 ***
@@ -93,8 +85,6 @@ The program is part of the recent European initiative called [ELLIS](https://ell
 ***
 
 [Michele Ceriotti]():	_TBA (Machine learning for molecular dynamics, quantum physics)_
-
-***
 
 ### Machine Learning for Quantum Physics
 
@@ -125,8 +115,6 @@ The program is part of the recent European initiative called [ELLIS](https://ell
 ***
 
 [Anatole von Lilienfeld](): _"Quantum Machine Learning in Chemical Compound Space"_
-
-***
 
 # Program 
 
