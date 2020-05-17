@@ -98,7 +98,7 @@ The program is part of the recent European initiative called [**ELLIS**](https:/
 
 ***
 
-**Hans Briegel** [[[scholar](https://scholar.google.at/citations?user=CtRLfr4AAAAJ&hl=de)]: _"Reinforcement learning and AI for quantum experiment"_
+**Hans Briegel** [[scholar](https://scholar.google.at/citations?user=CtRLfr4AAAAJ&hl=de)]: _"Reinforcement learning and AI for quantum experiment"_
 
 ***
 
