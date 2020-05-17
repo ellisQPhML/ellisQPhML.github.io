@@ -14,15 +14,15 @@ The program is part of the recent European initiative called [**ELLIS**](https:/
 
 ***
 
-[Florian Marquardt](www.google.com): _"Self-learning machines based on nonlinear field evolution"_
+**Florian Marquardt** [[web](http://www.thp2.nat.uni-erlangen.de/index.php/Homepage_Florian_Marquardt), [scholar](https://scholar.google.com/citations?user=jx_c7SgAAAAJ&hl=en)]: _"Self-learning machines based on nonlinear field evolution"_
 
 ***
 
-[Carlo Baldassi](www.google.com): _TBA_
+**Carlo Baldassi** [[scholar](https://scholar.google.com/citations?user=DYUloYkAAAAJ&hl=it)]: _TBA_
 
 ***
 
-[Ton Coolen](www.google.com): _"Replica analysis of overfitting in generalized linear regression models"_
+**Ton Coolen** [[web](https://toncoolen.wixsite.com/accc), [scholar](https://scholar.google.co.uk/citations?user=yJb0-aIAAAAJ&hl=en)]: _"Replica analysis of overfitting in generalized linear regression models"_
 
 ### Quantum ideas for Machine Learning 
 
@@ -144,4 +144,7 @@ The program is part of the recent European initiative called [**ELLIS**](https:/
 
 
 # Organizers
-who are the organizers?
+
+**Bert Kappen** [web](http://www.snn.ru.nl/~bertk/)
+**???** [web]()
+**???** [web]()
