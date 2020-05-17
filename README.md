@@ -10,7 +10,7 @@ The program is part of the recent European initiative called [**ELLIS**](https:/
 
 ### Statistical Physics of Machine Learning 
 
-[Florent Krzakala](www.google.com): _TBA_
+**Florent Krzakala** [[web](https://florentkrzakala.com/), [scholar](https://scholar.google.com/citations?user=3jDeUlMAAAAJ&hl=en)]: _TBA_
 
 ***
 
@@ -89,8 +89,6 @@ The program is part of the recent European initiative called [**ELLIS**](https:/
 [Michele Ceriotti]():	_TBA (Machine learning for molecular dynamics, quantum physics)_
 
 ### Machine Learning for Quantum Physics
-
-***
 
 [Glen Mbeng](): _"Reinforcement Learning assisted Quantum Optimization"_
 
