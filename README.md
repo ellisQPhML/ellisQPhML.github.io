@@ -145,8 +145,8 @@ The program is part of the recent European initiative called [**ELLIS**](https:/
 
 # Organizers
 
-**Bert Kappen** [web](http://www.snn.ru.nl/~bertk/)
+**Bert Kappen** [[web](http://www.snn.ru.nl/~bertk/)]
 
-**???** [web]()
+**???** [[web]()]
 
-**???** [web]()
+**???** [[web]()]
