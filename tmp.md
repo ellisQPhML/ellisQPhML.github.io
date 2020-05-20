@@ -1,6 +1,6 @@
 ---
 title: temporary page
-layout: default
+layout: fellows
 ---
 
 ## temporary page
