@@ -3,6 +3,11 @@
 $section-headings-color: #bd4200;
 
 @import "{{ site.theme }}";
+
+header {
+  display: none;
+}
+
 .page-header {
   color: transparent;
   text-align: center;
