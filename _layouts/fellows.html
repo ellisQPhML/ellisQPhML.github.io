@@ -20,21 +20,24 @@
     <link rel="stylesheet" href="{{ '/assets/css/fellowsstyle.css?v=' | append: site.github.build_revision | relative_url }}">
   </head>
   <body>
-    <!--
-    <a id="skip-to-content" href="#content">Skip to the content.</a>
-    -->
-    <!--
-    added by me to try to use navigation bar
-    -->
+    
     <ul>
       <li><a href="https://ellisqphml.github.io/#ellis-qphml-2020">QPhML2020</a></li>
       <li><a href="#fellowsprogram">Program</a></li>
       <li><a href="#fellows">Fellows</a></li>
       <li><a href="#events">Events</a></li>
     </ul>
-    <!--
-    end added by me 
-    -->
+    
+    <header class="page-header" role="banner">
+      <!--
+      <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+      -->      
+      <img src="{{ page.image | default: site.logo }}" alt="{{ page.title | default: site.title | default: site.github.repository_name }}" class="project-name" />
+      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+
+    </header>
+
 
     <main id="content" class="main-content" role="main">
       {{ content }}
