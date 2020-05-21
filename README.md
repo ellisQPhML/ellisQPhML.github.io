@@ -8,8 +8,6 @@ The program is part of the recent European initiative called [**ELLIS**](https:/
 
 Learn more [here](ellisfellows.md)
 
-And a temporary page [here](https://ellisqphml.github.io/fellows)
-
 # Speakers 
 
 ### Statistical Physics of Machine Learning 
