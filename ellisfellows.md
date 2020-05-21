@@ -27,7 +27,7 @@ The challenge of quantum many-body physics is to efficiently describe and contro
 
 The Ellis program is realized through the active involvement of the Ellis Fellows (senior researchers) and Ellis Scholars (more junior researchers). In addition, the Ellis Guests, are affiliated researchers.
 
-# Fellows:
+# <a name="fellows"></a>Fellows:
 
 **Bert Kappen** Department of Biophysics, Radboud University Nijmegen, b.kappen@science.ru.nl (program director)
 
@@ -83,7 +83,7 @@ The Ellis program is realized through the active involvement of the Ellis Fellow
     
 **Andrea Rocchetto** Department of Computer Science, University of Texas at Austin, USA 
 
-# Events
+# <a name="events"></a>Events
 
 [**Ellis QPhML 2019 workshop**](http://dalimeeting.org/dali2019b/workshop-05-04.html). The DALI conference. San Sebastian, 5 September 2019
 
