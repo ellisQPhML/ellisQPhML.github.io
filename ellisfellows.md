@@ -13,9 +13,9 @@ The program is part of the recent European initiative called [**ELLIS**](https:/
 
 The program focuses on the following directions:
 
-## Quantum enhanced machine learning
+> ## Quantum enhanced machine learning
 
-Quantum devices are nearing the noisy intermediate scale quantum (NISQ) era, corresponding to machines with 50 to 100 qubits and capable of executing circuits with depths on the order of thousands of elementary two qubit operations. NISQ devices may provide computational advantages over classical supercomputers for various machine learning problems, which includes sampling from hard-to-simulate probability distributions for Bayesian methods and the Quantum Boltzmann Machine and linear algebra problems (for instance for kernel methods or deep learning). It is hoped that the application of NISQ technology to machine learning may be one of the first instances exhibiting genuine quantum advantages.
+> Quantum devices are nearing the noisy intermediate scale quantum (NISQ) era, corresponding to machines with 50 to 100 qubits and capable of executing circuits with depths on the order of thousands of elementary two qubit operations. NISQ devices may provide computational advantages over classical supercomputers for various machine learning problems, which includes sampling from hard-to-simulate probability distributions for Bayesian methods and the Quantum Boltzmann Machine and linear algebra problems (for instance for kernel methods or deep learning). It is hoped that the application of NISQ technology to machine learning may be one of the first instances exhibiting genuine quantum advantages.
 
 ## Statistical physics approach to machine learning
 
