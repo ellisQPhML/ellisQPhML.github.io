@@ -25,11 +25,11 @@ The program focuses on the following directions:
 
 > The challenge of quantum many-body physics is to efficiently describe and control exponential numbers of parameters of quantum systems. Better characterization of such systems will lead to the understanding of quantum materials such as high-temperature superconductors or topological insulators. Enhanced control of immense parameter spaces will improve the understanding and design of quantum devices, enabling quantum computers and networks. For this problem, machine learning offers a new option.
 
----
+# <a name="fellows"></a>Fellows
 
 The Ellis program is realized through the active involvement of the Ellis Fellows (senior researchers) and Ellis Scholars (more junior researchers). In addition, the Ellis Guests, are affiliated researchers.
 
-# <a name="fellows"></a>Fellows
+## Ellis Fellows
 
 **Bert Kappen** Department of Biophysics, Radboud University Nijmegen, b.kappen@science.ru.nl (program director)
 
@@ -57,7 +57,7 @@ The Ellis program is realized through the active involvement of the Ellis Fellow
     
 **Remi Monasson** Department of Physics, Ecole Normal Superieur Paris. monasson@lpt.ens.fr 
 
-# Scholars
+## Ellis Scholars
 
 **Carlo Baldassi** Department of Decision Sciences Bocconi University Milan. carlobaldassi@gmail.com
 
@@ -65,7 +65,7 @@ The Ellis program is realized through the active involvement of the Ellis Fellow
 
 **Giuseppe Carleo** Center for Computational Quantum Physics, Flatiron Institute, New York, gcarleo@flatironinstitute.org 
 
-# Guests
+## Ellis Guests
 
 **Marc Mezard** Department of Physics, Ecole Normal Superieur Paris
     
