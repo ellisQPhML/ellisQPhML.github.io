@@ -149,6 +149,6 @@ Learn more [here](ellisfellows.md)
 
 **Bert Kappen** [[web](http://www.snn.ru.nl/~bertk/)]
 
-**???** [[web]()]
+**Riccardo Zecchina** [[web](https://sites.google.com/view/riccardozecchina/home)]
 
 **???** [[web]()]
