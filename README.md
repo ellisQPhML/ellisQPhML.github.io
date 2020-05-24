@@ -6,7 +6,7 @@ The aim of the Ellis program Quantum and Physics based machine learning ([**QPhM
 
 The program is part of the recent European initiative called [**ELLIS**](https://ellis.eu/) (European Laboratory for Learning and Intelligent Systems) to stimulate research on machine learning by building networks of top reseach groups in Europe. 
 
-Learn more [here](ellisfellows.md)
+Learn more: [[Ellis initiative](https://ellis.eu/), [Ellis Fellows QPhML Program](ellisfellows.md)]
 
 # Speakers 
 
