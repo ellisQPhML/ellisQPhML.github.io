@@ -31,59 +31,59 @@ The Ellis program is realized through the active involvement of the Ellis Fellow
 
 ## Ellis Fellows
 
-**Bert Kappen** Department of Biophysics, Radboud University Nijmegen, b.kappen@science.ru.nl (program director)
+**Bert Kappen** (<ins>program director</ins>) Department of Biophysics, Radboud University (Nijmegen). [[web](http://www.snn.ru.nl/~bertk/)]
 
-**Riccardo Zecchina** Department of Decision Sciences Bocconi University Milan, riccardo.zecchina@gmail.com (program director)
+**Riccardo Zecchina** (<ins>program director</ins>) Department of Decision Sciences, Bocconi University (Milan). [[web](https://sites.google.com/view/riccardozecchina/)]
 
-**Miguel Angel Delgado** Department of Theoretical physics Universidad Complutense Madrid, mardel@fis.ucm.es
+**Miguel Angel Delgado** Department of Theoretical Physics, Universidad Complutense (Madrid). [[web](https://orcid.org/0000-0003-2746-5062)]
 
-**David Gross** Institute for Theoretical physics University Cologne. david.gross@thp.uni-koeln.de
-    
-**Florian Marquardt** Institute for Theoretical physics, Max Planck Institute Erlangen. florian.marquardt@mpl.mpg.de
-    
-**Matthias Rupp** Department of Theory. Fritz-Haber-Institut of the Max Planck Society. mrupp@mrupp.info
+**David Gross** Institute for Theoretical Physics, University of Cologne (Cologne). [[web](https://www.thp.uni-koeln.de/gross/david_gross.html)]
 
-**Gabor Csanyi** Department of Engineering, University of Cambridge. gc121@eng.cam.ac.uk
+**Florian Marquardt** Institute for Theoretical physics, Max Planck Institute (Erlangen). [[web](http://www.thp2.nat.uni-erlangen.de/index.php/Homepage_Florian_Marquardt)]
     
-**Florent Krzakala** Department of Physics, Ecole Normal Superieur Paris. florent.krzakala@ens.fr
-    
-**Guilio Biroli** Department of Physics, Ecole Normal Superieur Paris. giulio.biroli@lps.ens.fr
-    
-**Lenka Zdeborova** Institute for theoretical physics, University Paris-Saclay. lenka.zdeborova@gmail.com
-    
-**Jens Eisert** Dahlem Center for Complex Quantum Systems Free University Berlin. jenseisert@gmail.com
+**Matthias Rupp** Department of Theory, Fritz-Haber-Institut of the Max Planck Society (Berlin). [[web](https://www.mrupp.info/)]
 
-**Giuseppe Santoro** SISSA Trieste. santoro@sissa.it
+**Gabor Csanyi** Department of Engineering, University of Cambridge (Cambridge). [[web](http://www.eng.cam.ac.uk/profiles/gc121)]
+
+**Florent Krzakala** Department of Physics, Ecole Normal Superieur (Paris). [[web](https://florentkrzakala.com/)]
     
-**Remi Monasson** Department of Physics, Ecole Normal Superieur Paris. monasson@lpt.ens.fr 
+**Giulio Biroli** Department of Physics, Ecole Normal Superieur (Paris). [[web](https://prairie-institute.fr/chairs/biroli-giulio/)]
+    
+**Lenka Zdeborova** Institute for theoretical physics, University Paris-Saclay (Paris). [[web](http://artax.karlin.mff.cuni.cz/~zdebl9am/)]
+    
+**Jens Eisert** Dahlem Center for Complex Quantum Systems Free University Berlin (Berlin). [[web](https://www.physik.fu-berlin.de/en/einrichtungen/ag/ag-eisert/people/eisert/index.html)]
+
+**Giuseppe Santoro** SISSA (Trieste). [[web](https://cm.sissa.it/people/members.php?ID=3)]
+    
+**Remi Monasson** Department of Physics, Ecole Normal Superieur (Paris). [[web](http://www.phys.ens.fr/~monasson/)] 
 
 ## Ellis Scholars
 
-**Carlo Baldassi** Department of Decision Sciences Bocconi University Milan. carlobaldassi@gmail.com
+**Carlo Baldassi** Department of Decision Sciences, Bocconi University (Milan). [[web](http://didattica.unibocconi.eu/mypage/index.php?IdUte=195030&cognome=BALDASSI&nome=CARLO&urlBackMy=)]
 
-**Vedran Dunjko** Leiden Institute for Advanced Computer Science University Leiden. v.dunjko@liacs.leidenuniv.nl
+**Vedran Dunjko** Leiden Institute for Advanced Computer Science, University Leiden (Leiden). [[web](https://www.universiteitleiden.nl/en/staffmembers/vedran-dunjko#tab-1)]
 
-**Giuseppe Carleo** Center for Computational Quantum Physics, Flatiron Institute, New York, gcarleo@flatironinstitute.org 
+**Giuseppe Carleo** Center for Computational Quantum Physics, Flatiron Institute (New York). [[web](https://www.simonsfoundation.org/team/giuseppe-carleo/)] 
 
 ## Ellis Guests
 
-**Marc Mezard** Department of Physics, Ecole Normal Superieur Paris
+**Marc Mezard** Department of Physics, Ecole Normal Superieur (Paris). [[web](https://www.marcmezard.fr/)]
     
-**Nicolas Regnault** Department of Physics, Ecole Normal Superieur Paris
+**Nicolas Regnault** Department of Physics, Ecole Normal Superieur (Paris). [[web](http://www.phys.ens.fr/~regnault/)]
     
-**Jorge Kurchan** Department of Physics, Ecole Normal Superieur Paris
+**Jorge Kurchan** Department of Physics, Ecole Normal Superieur (Paris). [[web](https://scholar.google.fr/citations?user=18qQeMMAAAAJ&hl=fr)]
     
-**Matthias Troyer** ETH Zurich and Microsoft Research
+**Matthias Troyer** ETH Zurich and Microsoft Research. [[web](https://www.microsoft.com/en-us/research/people/mtroyer/)]
     
-**Manfred Opper** TU Berlin
+**Manfred Opper** TU (Berlin). [[web](https://dblp.uni-trier.de/pers/o/Opper:Manfred.html)]
     
-**Hans Briegel** Institut für Theoretische Physik, University of Innsbrück
+**Hans Briegel** Institut für Theoretische Physik, University of Innsbrück (Innsbrück). [[web](https://www.uibk.ac.at/th-physik/staff/briegel/)]
     
-**Aram Harrow** MIT, USA
+**Aram Harrow** MIT (Boston). [[web](http://web.mit.edu/aram/www/)]
     
-**Valentina Ros** Department of Physics, Ecole Normal Superieur Paris
+**Valentina Ros** Department of Physics, Ecole Normal Superieur (Paris). [[web](https://scholar.google.it/citations?user=9809-1wAAAAJ&hl=it)]
     
-**Andrea Rocchetto** Department of Computer Science, University of Texas at Austin, USA 
+**Andrea Rocchetto** Department of Computer Science, University of Texas at Austin, (Austin). [[web](https://andrearocchetto.github.io/)] 
 
 # <a name="events"></a>Events
 
