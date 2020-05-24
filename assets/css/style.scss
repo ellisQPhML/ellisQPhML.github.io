@@ -88,6 +88,10 @@ body {
 .topnav {
   overflow: hidden;
   background-color: #333;
+  /* dont know if it works */
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
 }
 
 .topnav a {
