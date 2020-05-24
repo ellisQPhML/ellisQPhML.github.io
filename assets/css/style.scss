@@ -128,8 +128,7 @@ body {
 
 @media screen and (max-width: 600px) {
   /*.topnav.responsive {position: relative;}*/
-  /*.topnav.responsive {position: -webkit-sticky; position: sticky; top: 0;}*/
-  .topnav.responsive {position: fixed; top: 0;}
+  .topnav.responsive {position: -webkit-sticky; position: sticky; top: 0; z-index: 1000;}
   .topnav.responsive .icon {
     position: absolute;
     right: 0;
