@@ -63,6 +63,19 @@ $section-headings-color: #bd4200;
   }
 }
 
+/* logo header class */
+.logo-header img {
+  float: left;
+  width: 100px;
+  height: 100px;
+  background: #555;
+}
+
+.logo-header h1 {
+  position: relative;
+  top: 18px;
+  left: 10px;
+}
 
 /* added by me to try to customize the navigation bar */
 ul {
