@@ -135,6 +135,9 @@ body {
     top: 0;
   }
   .topnav.responsive a {
+    /* see if this solves conflicts with tables */
+    position: absolute;
+    /**/
     float: none;
     display: block;
     text-align: left;
