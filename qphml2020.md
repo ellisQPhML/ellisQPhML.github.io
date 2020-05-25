@@ -194,9 +194,9 @@ After each session, there will be parallel breakout sessions where you can meet 
 
 | Time          | Talk      | Link     |
 | ------------- | ------------- | -----:|
-| 10:00 | [**Luca Biferale**](http://people.fisica.uniroma2.it/~biferale/index.php?show=contacts) (University of Tor Vergata, Rome): _"Equation informed and data-driven tools for data-assimilation and data-classiﬁcation of turbulent ﬂows"_  | [[video](), [paper]()] |
-| 10:40 | [**Michele Ceriotti**](https://people.epfl.ch/michele.ceriotti?lang=en) (EPFL, Lausanne): _"TBA"_ | [[video](), [paper]()] |
-| 11:20 | [**Antonio Celani**]((https://www.ictp.it/phonebook/person?id=2439%C2%A0#close)) (ICTP, Trieste): _"TBA"_ |   [[video](), [paper]()] |
+| 10:00 | [**Luca Biferale**](http://people.fisica.uniroma2.it/~biferale/index.php?show=contacts) (University of Tor Vergata, Rome): <br> _"Equation informed and data-driven tools for data-assimilation and data-classiﬁcation of turbulent ﬂows"_  | [[video](), [paper]()] |
+| 10:40 | [**Michele Ceriotti**](https://people.epfl.ch/michele.ceriotti?lang=en) (EPFL, Lausanne): <br>  _"TBA"_ | [[video](), [paper]()] |
+| 11:20 | [**Antonio Celani**]((https://www.ictp.it/phonebook/person?id=2439%C2%A0#close)) (ICTP, Trieste): <br>  _"TBA"_ |   [[video](), [paper]()] |
 | 12:00 | **Breakout Session** | [[video]()] |
 
 ### Machine Learning for Quantum Chemistry
