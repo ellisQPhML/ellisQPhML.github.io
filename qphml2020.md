@@ -125,29 +125,102 @@ Learn more: [[Ellis initiative](https://ellis.eu/), [Ellis Fellows QPhML Program
 
 # Program 
 
-### Day one (06-07-2020)
+Below you find the tentative program of the workshop. Each talk is given 30 minutes + 10 minutes discussion. 
+After each session, there will be parallel breakout sessions where you can meet with the speakers and discuss further. 
+
+## Day one (06-07-2020)
+
+### Machine Learning and Quantum Computing I
 
 | Time          | Talk      | Link     |
 | ------------- | ------------- | -----:|
-| 09:00      | **Jens Eisert**: _"Probabilistic Modelling with Tensor Networks - A Bridge from Graphical Models to Quantum Circuits"_ | [[video](), [paper]()] |
-| 09:45      | **Glen Mbeng**: _"Reinforcement Learning assisted Quantum Optimization"_     |   [[video](), [paper]()] |
-| 10:30 | **Alexandre Tkatchenko**: _"Unifying Quantum Chemistry and Machine Learning"_      |   [[video](), [paper]()] |
+| 09:45 - 10:00 | **Riccardo Zecchina** and **Bert Kappen**: _"Introduction and welcome"_     |   [[video]()] |
+| 10:00 - 10:40 | **Hans Briegel** (University Innsbruck, Innsbruck): _"Reinforcement learning and AI for quantum experiment"_ | [[video](), [paper]()] |
+| 10:40 - 11:20 | **Glen Mbeng** (SISSA, Trieste): _"Reinforcement Learning assisted Quantum Optimization"_     |   [[video](), [paper]()] |
+| 11:20 - 12:00 | **Christopher Sutton** (Fritz Haber Max Planck Institute, Berlin): _"Assessing machine learning model reliability"_      |   [[video](), [paper]()] |
+| 12:00 - 13:00 | **Breakout Session** | [[video]()] |
 
-### Day two  (07-07-2020)
+### Statistical Physics for Machine Learning I
 
 | Time          | Talk      | Link     |
 | ------------- | ------------- | -----:|
-| 09:00      | **Jens Eisert**: _"Probabilistic Modelling with Tensor Networks - A Bridge from Graphical Models to Quantum Circuits"_ | [[video](), [paper]()] |
-| 09:45      | **Glen Mbeng**: _"Reinforcement Learning assisted Quantum Optimization"_     |  [[video](), [paper]()] |
-| 10:30 | **Alexandre Tkatchenko**: _"Unifying Quantum Chemistry and Machine Learning"_      |   [[video](), [paper]()] |
+| 13:00 - 13:40 | **Ton Coolen** (Radboud University, Nijmegen): _"Replica analysis of overfitting in generalized linear regression models"_ | [[video](), [paper]()] |
+| 13:40 - 14:20 | **Manfred Opper**, (Technical University, Berlin): _"TBA"_     |   [[video](), [paper]()] |
+| 14:20 - 15:00 | **Carlo Baldassi** (Bocconi University, Milan): _"TBA"_      |   [[video](), [paper]()] |
+| 15:00 - 16:00 | **Breakout Session** | [[video]()] |
+
+### Machine Learning for Quantum Physics and Complex Systems I
+
+| Time          | Talk      | Link     |
+| ------------- | ------------- | -----:|
+| 16:00 - 16:40 | **Gabor Csanyi** (Cambridge University, Cambridge): _"Machine learning the quantum mechanics of materials and molecules"_ | [[video](), [paper]()] |
+| 16:40 - 17:20 | **Giuseppe Carleo** (Flatiron Institute, New York): _"Generative and variational modeling for interacting quantum systems"_     |   [[video](), [paper]()] |
+| 17:20 - 18:00 | **Juan Carrasquilla** (Vector Institute, Toronto): _"TBA"_      |   [[video](), [paper]()] |
+| 18:00 - 19:00 | **Breakout Session** | [[video]()] |
+
+## Day two  (07-07-2020)
+
+### Connecting Quantum and Machine Learning Theory
+
+| Time          | Talk      | Link     |
+| ------------- | ------------- | -----:|
+| 09:20 - 10:00 | **Jens Eisert** (Free University Berlin, Berlin): _"Probabilistic Modelling with Tensor Networks - A Bridge from Graphical Models to Quantum Circuits"_  | [[video](), [paper]()] |
+| 10:00 - 10:40 | **Masuyuki Ohzeki** (Tohoku University, Sendai): _"Quantum annealing and machine learning - learning and Black-box optimization"_ | [[video](), [paper]()] |
+| 10:40 - 11:20 | **Christian Gogolin** (Covestro AG, Leverkusen): _"Quantum many-body systems - understanding them with and using them as new machine learning tools"_     |   [[video](), [paper]()] |
+| 11:20 - 12:00 | **Volker Tresp** (Siemens AG, Munich): _"Quantum Machine Learning Algorithms for Knowledge Graphs"_ |   [[video](), [paper]()] |
+| 12:00 - 13:00 | **Breakout Session** | [[video]()] |
+
+### Statistical Physics for Machine Learning II
+
+| Time          | Talk      | Link     |
+| ------------- | ------------- | -----:|
+| 13:00 - 13:40 | **Lenka Zdeborova** (CEA, Saclay): _"TBA"_ | [[video](), [paper]()] |
+| 13:40 - 14:20 | **Florian Marquardt**, (Max Planck Institute for the Science of Light, Erlangen): _"Self-learning machines based on nonlinear field evolution"_ |   [[video](), [paper]()] |
+| 14:20 - 15:00 | **Eduardo Dominguez** (University of Havana, Havana): _"Quantum approximate inference through message passing"_ |   [[video](), [paper]()] |
+| 15:00 - 16:00 | **Breakout Session** | [[video]()] |
+
+### Machine Learning and Quantum Computing II
+
+| Time          | Talk      | Link     |
+| ------------- | ------------- | -----:|
+| 16:00 - 16:40 | **Max Welling** (Qualcomm AI Research, Amsterdam): _"Quantum Deformed Binary Neural Networks"_ | [[video](), [paper]()] |
+| 16:40 - 17:20 | **Laurent Daudet** (Lighton, Paris): _"Mix and Match: leveraging optically-created random embeddings in Machine Learning pipelines"_ |   [[video](), [paper]()] |
+| 17:20 - 18:00 | **Hussein Sadeghi** (D-Wave Systems, Burnaby): _"TBA"_ |   [[video](), [paper]()] |
+| 18:00 - 19:00 | **Breakout Session** | [[video]()] |
 
 ### Day three  (08-07-2020)
 
+### Machine Learning for Quantum Physics and Complex Systems II
+
 | Time          | Talk      | Link     |
 | ------------- | ------------- | -----:|
-| 09:00      | **Jens Eisert**: _"Probabilistic Modelling with Tensor Networks - A Bridge from Graphical Models to Quantum Circuits"_ | [[video](), [paper]()] |
-| 09:45      | **Glen Mbeng**: _"Reinforcement Learning assisted Quantum Optimization"_     |  [[video](), [paper]()] |
-| 10:30 | **Alexandre Tkatchenko**: _"Unifying Quantum Chemistry and Machine Learning"_      |   [[video](), [paper]()] |
+| 10:00 - 10:40 | **Luca Biferale** [[web](http://people.fisica.uniroma2.it/~biferale/index.php?show=contacts)] (University of Tor Vergata, Rome): _"Equation informed and data-driven tools for data-assimilation and data-classiﬁcation of turbulent ﬂows"_  | [[video](), [paper]()] |
+| 10:40 - 11:20 | **Michele Ceriotti** (EPFL, Lausanne): _"TBA"_ | [[video](), [paper]()] |
+| 11:20 - 12:00 | **Antonio Celani** (ICTP, Trieste): _"TBA"_ |   [[video](), [paper]()] |
+| 12:00 - 13:00 | **Breakout Session** | [[video]()] |
+
+### Machine Learning for Quantum Chemistry
+
+| Time          | Talk      | Link     |
+| ------------- | ------------- | -----:|
+| 13:00 - 13:40 | **Leonard Wossnig** (Rahko, London): _"TBA"_ | [[video](), [paper]()] |
+| 13:40 - 14:20 | **Alexandre Tkatchenko**, (University of Luxembourg, Luxembourg): _"Unifying Quantum Chemistry and Machine Learning"_ | [[video](), [paper]()] |
+| 14:20 - 15:00 | **Anatole von Lilienfeld** [[web](https://www.chemie1.unibas.ch/~anatole/index.html), [scholar](https://scholar.google.com/citations?user=LFFk3rkAAAAJ&hl=en)] (University of Basel, Basel): _"Quantum Machine Learning in Chemical Compound Space"_ | [[video](), [paper]()] |
+| 15:00 - 16:00 | **Breakout Session** | [[video]()] |
+
+Vedran Dunjko, Leiden University, The Netherlands	Quantum algorithms for reinforcement learning
+Aram Harrow, MIT USA							Small quantum computers and big classical data sets
+Andrea Rocchetto, University of Texas Austin USA	Exponential speedups for practical quantum machine learning algorithms
+18.00-19.00 Breakout sessions
+
+### Machine Learning and Quantum Computing III
+
+| Time          | Talk      | Link     |
+| ------------- | ------------- | -----:|
+| 16:00 - 16:40 | **Vedran Dunjko** (Leiden University, Leiden): _"Quantum algorithms for reinforcement learning"_ | [[video](), [paper]()] |
+| 16:40 - 17:20 | **Aram Harrow** (MIT, Boston): _"Small quantum computers and big classical data sets"_ | [[video](), [paper]()] |
+| 17:20 - 18:00 | **Andrea Rocchetto** (University of Texas, Austin): _"Exponential speedups for practical quantum machine learning algorithms"_ | [[video](), [paper]()] |
+| 18:00 - 19:00 | **Breakout Session** | [[video]()] |
 
 
 # Organizers
