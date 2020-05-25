@@ -164,7 +164,7 @@ After each session, there will be parallel breakout sessions where you can meet 
 
 | Time          | Talk      | Link     |
 | ------------- | ------------- | -----:|
-| 09:20 - 10:00 | **Jens Eisert** (Free University Berlin, Berlin): _"Probabilistic Modelling with Tensor Networks - A Bridge from Graphical Models to Quantum Circuits"_  | [[video](), [paper]()] |
+| 09:20 - 10:00 | [**Jens Eisert**](https://www.physik.fu-berlin.de/en/einrichtungen/ag/ag-eisert/people/eisert/index.html), [scholar](https://scholar.google.com/citations?user=WawCci0AAAAJ&hl=en) (Free University Berlin, Berlin): _"Probabilistic Modelling with Tensor Networks - A Bridge from Graphical Models to Quantum Circuits"_  | [[video](), [paper]()] |
 | 10:00 - 10:40 | **Masuyuki Ohzeki** (Tohoku University, Sendai): _"Quantum annealing and machine learning - learning and Black-box optimization"_ | [[video](), [paper]()] |
 | 10:40 - 11:20 | **Christian Gogolin** (Covestro AG, Leverkusen): _"Quantum many-body systems - understanding them with and using them as new machine learning tools"_     |   [[video](), [paper]()] |
 | 11:20 - 12:00 | **Volker Tresp** (Siemens AG, Munich): _"Quantum Machine Learning Algorithms for Knowledge Graphs"_ |   [[video](), [paper]()] |
@@ -175,7 +175,7 @@ After each session, there will be parallel breakout sessions where you can meet 
 | Time          | Talk      | Link     |
 | ------------- | ------------- | -----:|
 | 13:00 - 13:40 | **Lenka Zdeborova** (CEA, Saclay): _"TBA"_ | [[video](), [paper]()] |
-| 13:40 - 14:20 | **Florian Marquardt**, (Max Planck Institute for the Science of Light, Erlangen): _"Self-learning machines based on nonlinear field evolution"_ |   [[video](), [paper]()] |
+| 13:40 - 14:20 | [**Florian Marquardt**](http://www.thp2.nat.uni-erlangen.de/index.php/Homepage_Florian_Marquardt), [scholar](https://scholar.google.com/citations?user=jx_c7SgAAAAJ&hl=en), (Max Planck Institute for the Science of Light, Erlangen): _"Self-learning machines based on nonlinear field evolution"_ |   [[video](), [paper]()] |
 | 14:20 - 15:00 | **Eduardo Dominguez** (University of Havana, Havana): _"Quantum approximate inference through message passing"_ |   [[video](), [paper]()] |
 | 15:00 - 16:00 | **Breakout Session** | [[video]()] |
 
