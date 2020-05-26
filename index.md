@@ -89,4 +89,4 @@ The Ellis program is realized through the active involvement of the Ellis Fellow
 
 [**Ellis QPhML 2019 workshop**](http://dalimeeting.org/dali2019b/workshop-05-04.html). The DALI conference. San Sebastian, 5 September 2019
 
-[**Ellis QPhML 2020 workshop**](https://ellisqphml.github.io/). Virtual. Milan - Tübingen - Nijmegen, 6-8 July 2020
+[**Ellis QPhML 2020 workshop**](https://ellisqphml.github.io/qphml2020). Virtual. Milan - Tübingen - Nijmegen, 6-8 July 2020
