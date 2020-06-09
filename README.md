@@ -8,7 +8,7 @@ The program is part of the recent European initiative called [**ELLIS**](https:/
 
 Learn more: [[Ellis initiative](https://ellis.eu/), [Ellis Fellows QPhML Program](ellisfellows.md)]
 
-Im trying to create a registration form [here](tmp_registration.md) 
+Im trying to create a registration form [here](https://ellisqphml.github.io/tmp_registration) 
 
 # Events 
 
