@@ -7,9 +7,9 @@ layout: default
   Name:<br>
   <input type="text" name="entry.838988348" id="entry.838988348"><br>
   Affiliation:<br>
-  <input type="text" name="entry.488853232" id="entry.488853232">
+  <input type="text" name="entry.488853232" id="entry.488853232"><br>
   Email address:<br>
-  <input type="text" name="entry.907667145" id="entry.907667145">
+  <input type="text" name="entry.907667145" id="entry.907667145"><br>
   <input type="submit" value="Submit">
 </form>
 
