@@ -8,6 +8,8 @@ The program is part of the recent European initiative called [**ELLIS**](https:/
 
 Learn more: [[Ellis initiative](https://ellis.eu/), [Ellis Fellows QPhML Program](ellisfellows.md)]
 
+Im trying to create a registration form [here](tmp_registration.md) 
+
 # Events 
 
 [**Ellis QPhML 2019 workshop**](http://dalimeeting.org/dali2019b/workshop-05-04.html). The DALI conference. San Sebastian, 5 September 2019
