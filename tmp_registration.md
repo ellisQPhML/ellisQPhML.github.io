@@ -1,6 +1,6 @@
 ---
 title: QPhML 2020 Registration
-layout: default-res
+layout: default_res
 ---
 
 <form name="gform" id="gform" enctype="text/plain" action="https://docs.google.com/forms/d/e/1FAIpQLSfFYZMO29bWFb4kmNaLIL6iZRs-JAWpUfrF-p9EbTsFB9XQEQ/formResponse?" target="hidden_iframe" onsubmit="submitted=true;">
