@@ -10,6 +10,9 @@ Learn more: [[Ellis initiative](https://ellis.eu/), [Ellis Fellows QPhML Program
 
 Im trying to create a registration form [here](https://ellisqphml.github.io/tmp_registration) 
 
+A better registration form [here](https://ellisqphml.github.io/registration) 
+
+
 # Events 
 
 [**Ellis QPhML 2019 workshop**](http://dalimeeting.org/dali2019b/workshop-05-04.html). The DALI conference. San Sebastian, 5 September 2019
