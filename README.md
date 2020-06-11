@@ -12,6 +12,8 @@ Im trying to create a registration form [here](https://ellisqphml.github.io/tmp_
 
 A better registration form [here](https://ellisqphml.github.io/registration) 
 
+A mix between the two [here](https://ellisqphml.github.io/registration2020) 
+
 
 # Events 
 
