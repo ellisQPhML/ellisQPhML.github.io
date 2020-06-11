@@ -70,37 +70,42 @@
       <link rel="stylesheet" href="style.css">
 
       <form class="gform pure-form pure-form-stacked" method="POST" data-email="example@email.net"
-      action="https://script.google.com/macros/s/AKfycbyac64ixdmcoUikcHdu8rqklpEbgoe92UGSkVNNLw/exec">
+      action="https://script.google.com/macros/s/AKfycbwD3e1qpRjHpK_eyPZHgFAmBoc1BQlKm8e2Mm6MfI_n0iuAB6rg/exec">
+      <!-- old link:
+            "https://script.google.com/macros/s/AKfycbyac64ixdmcoUikcHdu8rqklpEbgoe92UGSkVNNLw/exec"
+      -->
+        
       <!-- change the form action to your script url -->
 
       <div class="form-elements">
         <fieldset class="pure-group">
           <label for="name">Name: </label>
-          <input id="name" name="name" placeholder="What your Mom calls you" />
+          <input id="name" name="name" placeholder="Name" />
         </fieldset>
 
         <fieldset class="pure-group">
-          <label for="message">Message: </label>
-          <textarea id="message" name="message" rows="10"
-          placeholder="Tell us what's on your mind..."></textarea>
+          <label for="affiliation">Affiliation: </label>
+          <input id="affiliation" name="affiliation" placeholder="Affiliation" />
         </fieldset>
 
         <fieldset class="pure-group">
-          <label for="email"><em>Your</em> Email Address:</label>
+          <label for="email">Your Email Address:</label>
           <input id="email" name="email" type="email" value=""
           required placeholder="your.name@email.com"/>
         </fieldset>
-
+          
+        <!--
         <fieldset class="pure-group">
           <label for="color">Favourite Color: </label>
           <input id="color" name="color" placeholder="green" />
         </fieldset>
-
+       
         <fieldset class="pure-group honeypot-field">
           <label for="honeypot">To help avoid spam, utilize a Honeypot technique with a hidden text field; must be empty to submit the form! Otherwise, we assume the user is a spam bot.</label>
           <input id="honeypot" type="text" name="honeypot" value="" />
         </fieldset>
-
+        -->
+        
         <button class="button-success pure-button button-xlarge">
           <i class="fa fa-paper-plane"></i>&nbsp;Send</button>
       </div>
