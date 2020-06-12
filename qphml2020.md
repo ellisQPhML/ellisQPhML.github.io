@@ -5,6 +5,8 @@ layout: default
 
 # Ellis QPhML 2020
 
+**Registration is now open!** Please register [[here](https://ellisqphml.github.io/registration2020)] with your email to attend the workshop.
+
 > The workshop will be held online. Details on how to connect will be announced soon.
 
 [![Ellis Logo](assets/images/ellis-logo-transparent-1.png)](https://ellis.eu/)
@@ -115,3 +117,5 @@ After each session, there will be parallel breakout sessions where you can meet 
 **Bert Kappen** [[web](http://www.snn.ru.nl/~bertk/)]
 
 **Riccardo Zecchina** [[web](https://sites.google.com/view/riccardozecchina/home)]
+
+**Gabriele Perugini**
