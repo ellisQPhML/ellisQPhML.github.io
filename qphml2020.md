@@ -49,7 +49,7 @@ After each session, there will be parallel breakout sessions where you can meet 
 | ------------- | --------- | --------:|
 | 16:00 | [**Gabor Csanyi**](http://www.eng.cam.ac.uk/profiles/gc121) (Cambridge University, Cambridge): <br> _"Machine learning the quantum mechanics of materials and molecules"_ | [[video](), [paper]()] |
 | 16:40 | [**Giuseppe Carleo**](https://www.simonsfoundation.org/team/giuseppe-carleo/) (Flatiron Institute, New York): <br> _"Generative and variational modeling for interacting quantum systems"_ |   [[video](), [paper]()] |
-| 17:20 | [**Juan Carrasquilla**](https://vectorinstitute.ai/team/juan-felipe-carrasquilla/) (Vector Institute, Toronto): <br> _"TBA"_ | [[video](), [paper]()] |
+| 17:20 | [**Juan Carrasquilla**](https://vectorinstitute.ai/team/juan-felipe-carrasquilla/) (Vector Institute, Toronto): <br> _"Neural autoregressive toolbox for many-body physics"_ | [[video](), [paper]()] |
 | 18:00 | **Breakout Session** | [[video]()] |
 
 ## Day two  (07-07-2020)
