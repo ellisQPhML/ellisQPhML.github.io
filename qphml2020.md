@@ -61,7 +61,7 @@ After each session, there will be parallel breakout sessions where you can meet 
 | 09:20 | [**Jens Eisert**](https://www.physik.fu-berlin.de/en/einrichtungen/ag/ag-eisert/people/eisert/index.html) (Free University Berlin, Berlin): <br> _"Probabilistic Modelling with Tensor Networks - A Bridge from Graphical Models to Quantum Circuits"_  | [[video](), [paper]()] |
 | 10:00 | [**Masuyuki Ohzeki**](https://scholar.google.com/citations?user=BTwzDDwAAAAJ&hl=en) (Tohoku University, Sendai): <br> _"Quantum annealing and machine learning - learning and Black-box optimization"_ | [[video](), [paper]()] |
 | 10:40 | [**Christian Gogolin**](http://www.cgogolin.de/) (Covestro AG, Leverkusen): <br> _"Quantum many-body systems - understanding them with and using them as new machine learning tools"_ |   [[video](), [paper]()] |
-| 11:20 | [**Volker Tresp**](https://www.dbs.ifi.lmu.de/~tresp/) (Siemens AG, Munich): <br> _"Quantum Machine Learning Algorithms for Knowledge Graphs"_ |   [[video](), [paper]()] |
+| 11:20 | **Yunpu Ma** and [**Volker Tresp**](https://www.dbs.ifi.lmu.de/~tresp/) (Siemens AG and LMU, Munich): <br> _"Quantum Machine Learning Algorithms for Knowledge Graphs"_ |   [[video](), [paper]()] |
 | 12:00 | **Breakout Session** | [[video]()] |
 
 ### Statistical Physics for Machine Learning II
