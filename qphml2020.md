@@ -77,7 +77,7 @@ After each session, there will be parallel breakout sessions where you can meet 
 
 | Time          | Talk      | Link     |
 | ------------- | --------- | --------:|
-| 16:00 | [**Max Welling**](https://staff.fnwi.uva.nl/m.welling/) (Qualcomm AI Research, Amsterdam): <br> _"Quantum Deformed Binary Neural Networks"_ | [[video](), [paper]()] |
+| 16:00 | [**Roberto Bondesan**](https://scholar.google.com/citations?user=l2z7p3oAAAAJ&hl=en) (Qualcomm AI Research, Amsterdam): <br> _"Quantum Deformed Binary Neural Networks"_ | [[video](), [paper]()] |
 | 16:40 | [**Laurent Daudet**](https://www.institut-langevin.espci.fr/laurent_daudet?lang=fr) (Lighton, Paris): <br> _"Mix and Match: leveraging optically-created random embeddings in Machine Learning pipelines"_ |   [[video](), [paper]()] |
 | 17:20 | [**Michele Ceriotti**](https://people.epfl.ch/michele.ceriotti?lang=en) (EPFL, Lausanne): <br> _"Symmetry, locality and long-range interactions in atomistic machine learning"_ |   [[video](), [paper]()] |
 | 18:00 | **Breakout Session** | [[video]()] |
