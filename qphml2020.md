@@ -21,6 +21,7 @@ Learn more: [[Ellis initiative](https://ellis.eu/), [Ellis Fellows QPhML Program
 
 Below you find the tentative program of the workshop. Each talk is given 30 minutes + 10 minutes discussion. 
 After each session, there will be parallel breakout sessions where you can meet with the speakers and discuss further. 
+> Please note that all times are Central European Times (CET)
 
 ## Day one (06-07-2020)
 
