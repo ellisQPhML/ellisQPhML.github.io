@@ -79,8 +79,7 @@ After each session, there will be parallel breakout sessions where you can meet 
 | ------------- | --------- | --------:|
 | 16:00 | [**Roberto Bondesan**](https://scholar.google.com/citations?user=l2z7p3oAAAAJ&hl=en) (Qualcomm AI Research, Amsterdam): <br> _"Quantum Deformed Binary Neural Networks"_ | [[video](), [paper]()] |
 | 16:40 | [**Laurent Daudet**](https://www.institut-langevin.espci.fr/laurent_daudet?lang=fr) (Lighton, Paris): <br> _"Mix and Match: leveraging optically-created random embeddings in Machine Learning pipelines"_ |   [[video](), [paper]()] |
-| 17:20 | [**Michele Ceriotti**](https://people.epfl.ch/michele.ceriotti?lang=en) (EPFL, Lausanne): <br> _"Symmetry, locality and long-range interactions in atomistic machine learning"_ |   [[video](), [paper]()] |
-| 18:00 | **Breakout Session** | [[video]()] |
+| 17:20 | **Breakout Session** | [[video]()] |
 
 ## Day three  (08-07-2020)
 
@@ -89,7 +88,7 @@ After each session, there will be parallel breakout sessions where you can meet 
 | Time          | Talk      | Link     |
 | ------------- | --------- | --------:|
 | 10:00 | [**Luca Biferale**](http://people.fisica.uniroma2.it/~biferale/index.php?show=contacts) (University of Tor Vergata, Rome): <br> _"Equation informed and data-driven tools for data-assimilation and data-classiﬁcation of turbulent ﬂows"_  | [[video](), [paper]()] |
-| 10:40 | [**Michele Ceriotti**](https://people.epfl.ch/michele.ceriotti?lang=en) (EPFL, Lausanne): <br> _"TBA"_ | [[video](), [paper]()] |
+| 10:40 | [**Michele Ceriotti**](https://people.epfl.ch/michele.ceriotti?lang=en) (EPFL, Lausanne): <br> _"Symmetry, locality and long-range interactions in atomistic machine learning"_ | [[video](), [paper]()] |
 | 11:20 | [**Antonio Celani**](https://www.ictp.it/phonebook/person?id=2439%C2%A0#close) (ICTP, Trieste): <br> _"TBA"_ |   [[video](), [paper]()] |
 | 12:00 | **Breakout Session** | [[video]()] |
 
