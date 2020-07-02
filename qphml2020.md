@@ -106,7 +106,7 @@ After each session, there will be parallel breakout sessions where you can meet 
 
 | Time          | Talk      | Link     |
 | ------------- | --------- | --------:|
-| 16:00 | [**Vedran Dunjko**](https://www.universiteitleiden.nl/en/staffmembers/vedran-dunjko#tab-1) (Leiden University, Leiden): <br> _"Quantum algorithms for reinforcement learning"_ | [[video](), [paper]()] |
+| 16:00 | [**Vedran Dunjko**](https://www.universiteitleiden.nl/en/staffmembers/vedran-dunjko#tab-1) (Leiden University, Leiden): <br> _"Toward quantum advantages for topological data analysis"_ | [[video](), [paper]()] |
 | 16:40 | [**Aram Harrow**](http://web.mit.edu/aram/www/) (MIT, Boston): <br> _"Small quantum computers and big classical data sets"_ | [[video](), [paper]()] |
 | 17:20 | [**Andrea Rocchetto**](https://andrearocchetto.github.io/) (University of Texas, Austin): <br> _"The Statistical Limits of Supervised Quantum Learning"_ | [[video](), [paper]()] |
 | 18:00 | **Breakout Session** | [[video]()] |
