@@ -5,7 +5,7 @@ layout: default
 
 # Ellis QPhML 2020
 
-**Registration is now open!** Please register [[here](https://ellisqphml.github.io/registration2020)] with your email to attend the workshop.
+**Registration is closed.** In case you didn't register you can follow the live streaming on YouTube. Links will be announced soon.
 
 > The workshop will be held online. Details on how to connect will be announced soon.
 
