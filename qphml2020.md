@@ -98,7 +98,8 @@ After each session, there will be parallel breakout sessions where you can meet 
 | ------------- | --------- | --------:|
 | 16:00 | [**Roberto Bondesan**](https://scholar.google.com/citations?user=l2z7p3oAAAAJ&hl=en) (Qualcomm AI Research, Amsterdam): <br> _"Quantum Deformed Binary Neural Networks"_ | [[video](), [paper]()] |
 | 16:40 | [**Laurent Daudet**](https://www.institut-langevin.espci.fr/laurent_daudet?lang=fr) (Lighton, Paris): <br> _"Mix and Match: leveraging optically-created random embeddings in Machine Learning pipelines"_ |   [[video](), [paper]()] |
-| 17:20 | **Breakout Session** | [[video]()] |
+| 17:20 | [**Frank Noe**](http://www.mi.fu-berlin.de/en/math/groups/comp-mol-bio/) (Freie Universitaet, Berlin): <br> _"Deep neural network solution of the electronic Schrödinger equation"_ |   [[video](), [paper]()] |
+| 18:00 | **Breakout Session** | [[video]()] |
 
 ## Day three  (08-07-2020)
 
