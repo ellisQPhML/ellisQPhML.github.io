@@ -85,6 +85,8 @@ The Ellis program is realized through the active involvement of the Ellis Fellow
     
 **Andrea Rocchetto** Department of Computer Science, University of Texas at Austin, (Austin). [[web](https://andrearocchetto.github.io/)] 
 
+**Frank Noe** AI4Science, Freie Universitaet (Berlin). [[web](http://www.mi.fu-berlin.de/en/math/groups/comp-mol-bio/)]
+
 # <a name="events"></a>Events
 
 [**Ellis QPhML 2019 workshop**](http://dalimeeting.org/dali2019b/workshop-05-04.html). The DALI conference. San Sebastian, 5 September 2019
