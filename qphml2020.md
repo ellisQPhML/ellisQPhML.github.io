@@ -27,6 +27,8 @@ After each session, there will be parallel breakout sessions where you can meet 
 
 ### Machine Learning and Quantum Computing I
 
+**Chair**: [**Vedran Dunjko**](https://www.universiteitleiden.nl/en/staffmembers/vedran-dunjko#tab-1) (Leiden University, Leiden)
+
 | Time          | Talk      | Link     |
 | ------------- | --------- | --------:|
 | 09:45 | [**Riccardo Zecchina**](https://sites.google.com/view/riccardozecchina/home) and [**Bert Kappen**](http://www.snn.ru.nl/~bertk/): <br> _"Introduction and welcome"_     |   [[video]()] |
@@ -37,6 +39,8 @@ After each session, there will be parallel breakout sessions where you can meet 
 
 ### Statistical Physics for Machine Learning I
 
+**Chair**: [**Lenka Zdeborova**](http://artax.karlin.mff.cuni.cz/~zdebl9am/) (CEA, Saclay)
+
 | Time          | Talk      | Link     |
 | ------------- | --------- | --------:|
 | 13:00 | [**Ton Coolen**](https://toncoolen.wixsite.com/accc) (Radboud University, Nijmegen): <br> _"Replica analysis of overfitting in generalized linear regression models"_ | [[video](), [paper]()] |
@@ -45,6 +49,8 @@ After each session, there will be parallel breakout sessions where you can meet 
 | 15:00 | **Breakout Session** | [[video]()] |
 
 ### Machine Learning for Quantum Physics and Complex Systems I
+
+**Chair**: [**Riccardo Zecchina**](https://sites.google.com/view/riccardozecchina/home) (Bocconi University, Milan)
 
 | Time          | Talk      | Link     |
 | ------------- | --------- | --------:|
@@ -57,6 +63,8 @@ After each session, there will be parallel breakout sessions where you can meet 
 
 ### Connecting Quantum and Machine Learning Theory
 
+**Chair**: [**Florian Marquardt**](http://www.thp2.nat.uni-erlangen.de/index.php/Homepage_Florian_Marquardt) (Max Planck Institute for the Science of Light, Erlangen)
+
 | Time          | Talk      | Link     |
 | ------------- | --------- | --------:|
 | 09:20 | [**Jens Eisert**](https://www.physik.fu-berlin.de/en/einrichtungen/ag/ag-eisert/people/eisert/index.html) (Free University Berlin, Berlin): <br> _"Probabilistic Modelling with Tensor Networks - A Bridge from Graphical Models to Quantum Circuits"_  | [[video](), [paper]()] |
@@ -67,6 +75,8 @@ After each session, there will be parallel breakout sessions where you can meet 
 
 ### Statistical Physics for Machine Learning II
 
+**Chair**: [**Manfred Opper**](https://dblp.uni-trier.de/pers/o/Opper:Manfred.html), (Technical University, Berlin)
+
 | Time          | Talk      | Link     |
 | ------------- | --------- | --------:|
 | 13:00 | [**Lenka Zdeborova**](http://artax.karlin.mff.cuni.cz/~zdebl9am/) (CEA, Saclay): <br> _"The role of data structure in learning in shallow neural networks"_ | [[video](), [paper]()] |
@@ -75,6 +85,8 @@ After each session, there will be parallel breakout sessions where you can meet 
 | 15:00 | **Breakout Session** | [[video]()] |
 
 ### Machine Learning and Quantum Computing II
+
+**Chair**: [**Jens Eisert**](https://www.physik.fu-berlin.de/en/einrichtungen/ag/ag-eisert/people/eisert/index.html) (Free University Berlin, Berlin)
 
 | Time          | Talk      | Link     |
 | ------------- | --------- | --------:|
@@ -86,6 +98,8 @@ After each session, there will be parallel breakout sessions where you can meet 
 
 ### Machine Learning for Quantum Physics and Complex Systems II
 
+**Chair**: [**Gabor Csanyi**](http://www.eng.cam.ac.uk/profiles/gc121) (Cambridge University, Cambridge)
+
 | Time          | Talk      | Link     |
 | ------------- | --------- | --------:|
 | 10:00 | [**Luca Biferale**](http://people.fisica.uniroma2.it/~biferale/index.php?show=contacts) (University of Tor Vergata, Rome): <br> _"Equation informed and data-driven tools for data-assimilation and data-classiﬁcation of turbulent ﬂows"_  | [[video](), [paper]()] |
@@ -95,6 +109,8 @@ After each session, there will be parallel breakout sessions where you can meet 
 
 ### Machine Learning for Quantum Chemistry
 
+**Chair**: [**Hans Briegel**](https://scholar.google.at/citations?user=CtRLfr4AAAAJ&hl=de) (University Innsbruck, Innsbruck)
+
 | Time          | Talk      | Link     |
 | ------------- | --------- | --------:|
 | 13:00 | [**Alexandre Tkatchenko**](https://wwwfr.uni.lu/recherche/fstm/dphyms/people/alexandre_tkatchenko), (University of Luxembourg, Luxembourg): <br> _"Unifying Quantum Chemistry and Machine Learning"_ | [[video](), [paper]()] |
@@ -103,6 +119,8 @@ After each session, there will be parallel breakout sessions where you can meet 
 | 15:00 | **Breakout Session** | [[video]()] |
 
 ### Machine Learning and Quantum Computing III
+
+**Chair**: [**Juan Carrasquilla**](https://vectorinstitute.ai/team/juan-felipe-carrasquilla/) (Vector Institute, Toronto)
 
 | Time          | Talk      | Link     |
 | ------------- | --------- | --------:|
