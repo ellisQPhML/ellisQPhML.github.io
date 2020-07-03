@@ -25,13 +25,19 @@ After each session, there will be parallel breakout sessions where you can meet 
 
 ## Day one (06-07-2020)
 
+### Opening 
+
+| Time          | Talk      | Link     |
+| ------------- | --------- | --------:|
+| 09:45 | [**Riccardo Zecchina**](https://sites.google.com/view/riccardozecchina/home) and [**Bert Kappen**](http://www.snn.ru.nl/~bertk/): <br> _"Introduction and welcome"_     |   [[video]()] |
+| 09:50 | [**Bernhard Schölkopf**](https://www.is.mpg.de/~bs) (Max Plank Institute for Intelligent Systems, Germany): <br> _"Introducing the Ellis Program"_ | [[video](), [paper]()] |
+
 ### Machine Learning and Quantum Computing I
 
 **Chair**: [**Vedran Dunjko**](https://www.universiteitleiden.nl/en/staffmembers/vedran-dunjko#tab-1) (Leiden University, Leiden)
 
 | Time          | Talk      | Link     |
 | ------------- | --------- | --------:|
-| 09:45 | [**Riccardo Zecchina**](https://sites.google.com/view/riccardozecchina/home) and [**Bert Kappen**](http://www.snn.ru.nl/~bertk/): <br> _"Introduction and welcome"_     |   [[video]()] |
 | 10:00 | [**Hans Briegel**](https://scholar.google.at/citations?user=CtRLfr4AAAAJ&hl=de) (University Innsbruck, Innsbruck): <br> _"Learning and AI in the quantum domain"_ | [[video](), [paper]()] |
 | 10:40 | [**Glen Mbeng**](https://scholar.google.com/citations?user=9cBUERoAAAAJ&hl=en) (SISSA, Trieste): <br> _"Reinforcement Learning assisted Quantum Optimization"_     |   [[video](), [paper]()] |
 | 11:20 | [**Christopher Sutton**](https://scholar.google.com/citations?user=pU6K6F8AAAAJ&hl=en) (Fritz Haber Max Planck Institute, Berlin): <br> _"Assessing machine learning model reliability"_      |   [[video](), [paper]()] |
