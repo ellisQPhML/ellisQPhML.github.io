@@ -30,7 +30,7 @@ After each session, there will be parallel breakout sessions where you can meet 
 | Time          | Talk      | Link     |
 | ------------- | --------- | --------:|
 | 09:45 | [**Riccardo Zecchina**](https://sites.google.com/view/riccardozecchina/home) and [**Bert Kappen**](http://www.snn.ru.nl/~bertk/): <br> _"Introduction and welcome"_     |   [[video]()] |
-| 09:50 | [**Bernhard Schölkopf**](https://www.is.mpg.de/~bs) (Max Plank Institute for Intelligent Systems, Germany): <br> _"Introducing the Ellis Program"_ | [[video](), [paper]()] |
+| 09:50 | [**Bernhard Schölkopf**](https://www.is.mpg.de/~bs) (Max Plank Institute for Intelligent Systems, Germany): <br> _"Introducing the Ellis Program"_ | [[video]()] |
 
 ### Machine Learning and Quantum Computing I
 
