@@ -121,7 +121,7 @@ After each session, there will be parallel breakout sessions where you can meet 
 | Time          | Talk      | Link     |
 | ------------- | --------- | --------:|
 | 13:00 | [**Alexandre Tkatchenko**](https://wwwfr.uni.lu/recherche/fstm/dphyms/people/alexandre_tkatchenko), (University of Luxembourg, Luxembourg): <br> _"Unifying Quantum Chemistry and Machine Learning"_ | [[video](), [paper]()] |
-| 13:40 | [**Leonard Wossnig**](https://sites.google.com/view/leonardwossnig/) (Rahko, London): <br> _"TBA"_ | [[video](), [paper]()] |
+| 13:40 | [**Leonard Wossnig**](https://sites.google.com/view/leonardwossnig/) (Rahko, London): <br> _"Quantum Computing and Machine Learning: How two technologies could enable a new age in chemistry"_ | [[video](), [paper]()] |
 | 14:20 | [**Anatole von Lilienfeld**](https://www.chemie1.unibas.ch/~anatole/index.html) (University of Basel, Basel): <br> _"Quantum Machine Learning in Chemical Compound Space"_ | [[video](), [paper]()] |
 | 15:00 | **Breakout Session** | [[video]()] |
 
