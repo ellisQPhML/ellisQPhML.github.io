@@ -5,7 +5,7 @@ layout: default
 
 # Ellis QPhML 2020
 
-**Registration is closed.** In case you didn't register you can follow the live streaming on YouTube. Links will be announced soon.
+**Registration is closed.** In case you didn't register you can follow the [**live streaming on YouTube**](https://www.youtube.com/channel/UChOT4vx_PekVp9JaLIe-o0g).
 
 > The workshop will be held online. Details on how to connect will be announced soon.
 
