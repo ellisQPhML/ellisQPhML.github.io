@@ -40,7 +40,7 @@ After each session, there will be parallel breakout sessions where you can meet 
 | ------------- | --------- | --------:|
 | 10:00 | [**Hans Briegel**](https://scholar.google.at/citations?user=CtRLfr4AAAAJ&hl=de) (University Innsbruck, Innsbruck): <br> _"Learning and AI in the quantum domain"_ | [[video](), [paper]()] |
 | 10:40 | [**Glen Mbeng**](https://scholar.google.com/citations?user=9cBUERoAAAAJ&hl=en) (SISSA, Trieste): <br> _"Reinforcement Learning assisted Quantum Optimization"_     |   [[video](), [paper]()] |
-| 11:20 | [**Christopher Sutton**](https://scholar.google.com/citations?user=pU6K6F8AAAAJ&hl=en) (Fritz Haber Max Planck Institute, Berlin): <br> _"Assessing machine learning model reliability"_      |   [[video](), [paper]()] |
+| 11:20 | [**Bert Kappen**](http://www.snn.ru.nl/~bertk/) (Radboud University, Nijmegen): <br> _"Learning quantum models from quantum or classical data"_ |   [[video](), [paper](https://arxiv.org/abs/1803.11278)] |
 | 12:00 | **Break** | |
 
 ### Statistical Physics for Machine Learning I
@@ -86,8 +86,7 @@ After each session, there will be parallel breakout sessions where you can meet 
 | ------------- | --------- | --------:|
 | 13:00 | [**Lenka Zdeborova**](http://artax.karlin.mff.cuni.cz/~zdebl9am/) (CEA, Saclay): <br> _"The role of data structure in learning in shallow neural networks"_ | [[video](), [paper]()] |
 | 13:40 | [**Florian Marquardt**](http://www.thp2.nat.uni-erlangen.de/index.php/Homepage_Florian_Marquardt) (Max Planck Institute for the Science of Light, Erlangen): <br> _"Self-learning machines based on nonlinear field evolution"_ |   [[video](), [paper]()] |
-| 14:20 | [**Bert Kappen**](http://www.snn.ru.nl/~bertk/) (Radboud University, Nijmegen): <br> _"Learning quantum models from quantum or classical data"_ |   [[video](), [paper](https://arxiv.org/abs/1803.11278)] |
-| 15:00 | **Break** | |
+| 14:20 | **Break** | |
 
 ### Machine Learning and Quantum Computing II
 
