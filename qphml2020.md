@@ -50,7 +50,7 @@ After each session, there will be parallel breakout sessions where you can meet 
 | Time          | Talk      | Link     |
 | ------------- | --------- | --------:|
 | 13:00 | [**Ton Coolen**](https://toncoolen.wixsite.com/accc) (Radboud University, Nijmegen): <br> _"Replica analysis of overfitting in generalized linear regression models"_ | [[video](), [paper]()] |
-| 13:40 | [**Manfred Opper**](https://dblp.uni-trier.de/pers/o/Opper:Manfred.html), (Technical University, Berlin): <br> _"TBA"_ |   [[video](), [paper]()] |
+| 13:40 | [**Manfred Opper**](https://dblp.uni-trier.de/pers/o/Opper:Manfred.html), (Technical University, Berlin): <br> _"Analysing the dynamics of message passing algorithms using statistical mechanics"_ |   [[video](), [paper]()] |
 | 14:20 | [**Carlo Baldassi**](https://scholar.google.com/citations?user=DYUloYkAAAAJ&hl=it) (Bocconi University, Milan): <br> _"Entropic algorithms and wide flat minima"_ |   [[video](), [paper]()] |
 | 15:00 | **Break** | |
 
