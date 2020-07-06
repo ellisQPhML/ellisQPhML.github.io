@@ -86,7 +86,8 @@ After each session, there will be parallel breakout sessions where you can meet 
 | ------------- | --------- | --------:|
 | 13:00 | [**Lenka Zdeborova**](http://artax.karlin.mff.cuni.cz/~zdebl9am/) (CEA, Saclay): <br> _"The role of data structure in learning in shallow neural networks"_ | [[video](), [paper]()] |
 | 13:40 | [**Florian Marquardt**](http://www.thp2.nat.uni-erlangen.de/index.php/Homepage_Florian_Marquardt) (Max Planck Institute for the Science of Light, Erlangen): <br> _"Self-learning machines based on nonlinear field evolution"_ |   [[video](), [paper]()] |
-| 14:20 | **Break** | |
+| 14:20 | [**Bert Kappen**](http://www.snn.ru.nl/~bertk/) (Radboud University, Nijmegen): <br> _"An atomic Boltzmann machine capable of on-chip learning "_ |   [[video](), [paper]()] |
+| 15:00 | **Break** | |
 
 ### Machine Learning and Quantum Computing II
 
