@@ -80,7 +80,7 @@ After each session, there will be parallel breakout sessions where you can meet 
 
 ### Statistical Physics for Machine Learning II
 
-**Chair**: [**Manfred Opper**](https://dblp.uni-trier.de/pers/o/Opper:Manfred.html), (Technical University, Berlin)
+**Chair**: [**Gabor Csanyi**](http://www.eng.cam.ac.uk/profiles/gc121) (Cambridge University, Cambridge)
 
 | Time          | Talk      | Link     |
 | ------------- | --------- | --------:|
@@ -103,7 +103,7 @@ After each session, there will be parallel breakout sessions where you can meet 
 
 ### Machine Learning for Quantum Physics and Complex Systems II
 
-**Chair**: [**Gabor Csanyi**](http://www.eng.cam.ac.uk/profiles/gc121) (Cambridge University, Cambridge)
+**Chair**: [**Manfred Opper**](https://dblp.uni-trier.de/pers/o/Opper:Manfred.html), (Technical University, Berlin) 
 
 | Time          | Talk      | Link     |
 | ------------- | --------- | --------:|
