@@ -91,7 +91,7 @@ After each session, there will be parallel breakout sessions where you can meet 
 
 ### Machine Learning and Quantum Computing II
 
-**Chair**: [**Jens Eisert**](https://www.physik.fu-berlin.de/en/einrichtungen/ag/ag-eisert/people/eisert/index.html) (Free University Berlin, Berlin)
+**Chair**: [**Bert Kappen**](http://www.snn.ru.nl/~bertk/) (Radboud University, Nijmegen)
 
 | Time          | Talk      | Link     |
 | ------------- | --------- | --------:|
