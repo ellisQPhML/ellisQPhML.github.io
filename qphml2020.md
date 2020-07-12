@@ -29,8 +29,8 @@ After each session, there will be parallel breakout sessions where you can meet 
 
 | Time          | Talk      | Link     |
 | ------------- | --------- | --------:|
-| 09:45 | [**Riccardo Zecchina**](https://sites.google.com/view/riccardozecchina/home) and [**Bert Kappen**](http://www.snn.ru.nl/~bertk/): <br> _"Introduction and welcome"_     |   [[video]()] |
-| 09:50 | [**Bernhard Schölkopf**](https://www.is.mpg.de/~bs) (Max Plank Institute for Intelligent Systems, Germany): <br> _"Introducing the Ellis Program"_ | [[video]()] |
+| 09:45 | [**Riccardo Zecchina**](https://sites.google.com/view/riccardozecchina/home) and [**Bert Kappen**](http://www.snn.ru.nl/~bertk/): <br> _"Introduction and welcome"_     |   [[video](https://www.youtube.com/watch?v=BgN4C5h-3cg&list=PLRiRoNGVCVlBYB1M8t0EncU94n6As0-Da&index=3&t=0s)] |
+| 09:50 | [**Bernhard Schölkopf**](https://www.is.mpg.de/~bs) (Max Plank Institute for Intelligent Systems, Germany): <br> _"Introducing the Ellis Program"_ | [[video](https://www.youtube.com/watch?v=DYuZRonkaxU&list=PLRiRoNGVCVlBYB1M8t0EncU94n6As0-Da&index=2&t=0s)] |
 
 ### Machine Learning and Quantum Computing I
 
@@ -38,9 +38,9 @@ After each session, there will be parallel breakout sessions where you can meet 
 
 | Time          | Talk      | Link     |
 | ------------- | --------- | --------:|
-| 10:00 | [**Hans Briegel**](https://scholar.google.at/citations?user=CtRLfr4AAAAJ&hl=de) (University Innsbruck, Innsbruck): <br> _"Learning and AI in the quantum domain"_ | [[video](), [paper]()] |
-| 10:40 | [**Glen Mbeng**](https://scholar.google.com/citations?user=9cBUERoAAAAJ&hl=en) (SISSA, Trieste): <br> _"Reinforcement Learning assisted Quantum Optimization"_     |   [[video](), [paper]()] |
-| 11:20 | [**Bert Kappen**](http://www.snn.ru.nl/~bertk/) (Radboud University, Nijmegen): <br> _"Learning quantum models from quantum or classical data"_ |   [[video](), [paper](https://arxiv.org/abs/1803.11278)] |
+| 10:00 | [**Hans Briegel**](https://scholar.google.at/citations?user=CtRLfr4AAAAJ&hl=de) (University Innsbruck, Innsbruck): <br> _"Learning and AI in the quantum domain"_ | [[video](https://www.youtube.com/watch?v=mNopAugzM6U&list=PLRiRoNGVCVlBYB1M8t0EncU94n6As0-Da&index=4&t=1205s), [paper]()] |
+| 10:40 | [**Glen Mbeng**](https://scholar.google.com/citations?user=9cBUERoAAAAJ&hl=en) (SISSA, Trieste): <br> _"Reinforcement Learning assisted Quantum Optimization"_     |   [[video](https://www.youtube.com/watch?v=7vyBVnfhl_s&list=PLRiRoNGVCVlBYB1M8t0EncU94n6As0-Da&index=5&t=0s), [paper]()] |
+| 11:20 | [**Bert Kappen**](http://www.snn.ru.nl/~bertk/) (Radboud University, Nijmegen): <br> _"Learning quantum models from quantum or classical data"_ |   [[video](https://www.youtube.com/watch?v=PzttyzAmVOM&list=PLRiRoNGVCVlBYB1M8t0EncU94n6As0-Da&index=6&t=0s), [paper](https://arxiv.org/abs/1803.11278)] |
 | 12:00 | **Break** | |
 
 ### Statistical Physics for Machine Learning I
@@ -49,9 +49,9 @@ After each session, there will be parallel breakout sessions where you can meet 
 
 | Time          | Talk      | Link     |
 | ------------- | --------- | --------:|
-| 13:00 | [**Ton Coolen**](https://toncoolen.wixsite.com/accc) (Radboud University, Nijmegen): <br> _"Replica analysis of overfitting in generalized linear regression models"_ | [[video](), [paper]()] |
-| 13:40 | [**Manfred Opper**](https://dblp.uni-trier.de/pers/o/Opper:Manfred.html), (Technical University, Berlin): <br> _"Analysing the dynamics of message passing algorithms using statistical mechanics"_ |   [[video](), [paper]()] |
-| 14:20 | [**Carlo Baldassi**](https://scholar.google.com/citations?user=DYUloYkAAAAJ&hl=it) (Bocconi University, Milan): <br> _"Entropic algorithms and wide flat minima"_ |   [[video](), [paper]()] |
+| 13:00 | [**Ton Coolen**](https://toncoolen.wixsite.com/accc) (Radboud University, Nijmegen): <br> _"Replica analysis of overfitting in generalized linear regression models"_ | [[video](https://www.youtube.com/watch?v=9o8jGSzFDig&list=PLRiRoNGVCVlBYB1M8t0EncU94n6As0-Da&index=7&t=0s), [paper]()] |
+| 13:40 | [**Manfred Opper**](https://dblp.uni-trier.de/pers/o/Opper:Manfred.html), (Technical University, Berlin): <br> _"Analysing the dynamics of message passing algorithms using statistical mechanics"_ |   [[video](https://www.youtube.com/watch?v=hbPyIIJzPH4&list=PLRiRoNGVCVlBYB1M8t0EncU94n6As0-Da&index=8&t=0s), [paper]()] |
+| 14:20 | [**Carlo Baldassi**](https://scholar.google.com/citations?user=DYUloYkAAAAJ&hl=it) (Bocconi University, Milan): <br> _"Entropic algorithms and wide flat minima"_ |   [[video](https://www.youtube.com/watch?v=zHBp98PG9zg&list=PLRiRoNGVCVlBYB1M8t0EncU94n6As0-Da&index=9&t=0s), [paper]()] |
 | 15:00 | **Break** | |
 
 ### Machine Learning for Quantum Physics and Complex Systems I
@@ -60,9 +60,9 @@ After each session, there will be parallel breakout sessions where you can meet 
 
 | Time          | Talk      | Link     |
 | ------------- | --------- | --------:|
-| 16:00 | [**Gabor Csanyi**](http://www.eng.cam.ac.uk/profiles/gc121) (Cambridge University, Cambridge): <br> _"Machine learning the quantum mechanics of materials and molecules"_ | [[video](), [paper]()] |
-| 16:40 | [**Giuseppe Carleo**](https://www.simonsfoundation.org/team/giuseppe-carleo/) (Flatiron Institute, New York): <br> _"Variational Learning of Many-Body Quantum Systems"_ |   [[video](), [paper]()] |
-| 17:20 | [**Juan Carrasquilla**](https://vectorinstitute.ai/team/juan-felipe-carrasquilla/) (Vector Institute, Toronto): <br> _"Neural autoregressive toolbox for many-body physics"_ | [[video](), [paper]()] |
+| 16:00 | [**Gabor Csanyi**](http://www.eng.cam.ac.uk/profiles/gc121) (Cambridge University, Cambridge): <br> _"Machine learning the quantum mechanics of materials and molecules"_ | [[video](https://www.youtube.com/watch?v=ZjBff6-5amo&list=PLRiRoNGVCVlBYB1M8t0EncU94n6As0-Da&index=10&t=0s), [paper]()] |
+| 16:40 | [**Giuseppe Carleo**](https://www.simonsfoundation.org/team/giuseppe-carleo/) (Flatiron Institute, New York): <br> _"Variational Learning of Many-Body Quantum Systems"_ |   [[video](https://www.youtube.com/watch?v=TMgy2VTjYnw&list=PLRiRoNGVCVlBYB1M8t0EncU94n6As0-Da&index=11&t=0s), [paper]()] |
+| 17:20 | [**Juan Carrasquilla**](https://vectorinstitute.ai/team/juan-felipe-carrasquilla/) (Vector Institute, Toronto): <br> _"Neural autoregressive toolbox for many-body physics"_ | [[video](https://www.youtube.com/watch?v=B3HMIkzHbCo&list=PLRiRoNGVCVlBYB1M8t0EncU94n6As0-Da&index=12&t=0s), [paper]()] |
 
 ## Day two  (07-07-2020)
 
