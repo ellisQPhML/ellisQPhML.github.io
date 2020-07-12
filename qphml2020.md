@@ -72,10 +72,10 @@ After each session, there will be parallel breakout sessions where you can meet 
 
 | Time          | Talk      | Link     |
 | ------------- | --------- | --------:|
-| 09:20 | [**Jens Eisert**](https://www.physik.fu-berlin.de/en/einrichtungen/ag/ag-eisert/people/eisert/index.html) (Free University Berlin, Berlin): <br> _"Probabilistic Modelling with Tensor Networks - A Bridge from Graphical Models to Quantum Circuits"_  | [[video](), [paper]()] |
-| 10:00 | [**Masuyuki Ohzeki**](https://scholar.google.com/citations?user=BTwzDDwAAAAJ&hl=en) (Tohoku University, Sendai): <br> _"Quantum annealing and machine learning - learning and Black-box optimization"_ | [[video](), [paper]()] |
-| 10:40 | [**Christian Gogolin**](http://www.cgogolin.de/) (Covestro AG, Leverkusen): <br> _"Quantum many-body systems - understanding them with and using them as new machine learning tools"_ |   [[video](), [paper]()] |
-| 11:20 | [**Yunpu Ma**](https://dblp.uni-trier.de/pers/m/Ma:Yunpu.html) and [**Volker Tresp**](https://www.dbs.ifi.lmu.de/~tresp/) (Siemens AG and LMU, Munich): <br> _"Quantum Machine Learning Algorithms for Knowledge Graphs"_ |   [[video](), [paper]()] |
+| 09:20 | [**Jens Eisert**](https://www.physik.fu-berlin.de/en/einrichtungen/ag/ag-eisert/people/eisert/index.html) (Free University Berlin, Berlin): <br> _"Probabilistic Modelling with Tensor Networks - A Bridge from Graphical Models to Quantum Circuits"_  | [[video](https://www.youtube.com/watch?v=Gb1QDUZwvRY&list=PLRiRoNGVCVlDk7LGCHpQG8kOfDj54NN1l&index=2&t=0s), [paper]()] |
+| 10:00 | [**Masuyuki Ohzeki**](https://scholar.google.com/citations?user=BTwzDDwAAAAJ&hl=en) (Tohoku University, Sendai): <br> _"Quantum annealing and machine learning - learning and Black-box optimization"_ | [[video](https://www.youtube.com/watch?v=fb8SvGKGBmM&list=PLRiRoNGVCVlDk7LGCHpQG8kOfDj54NN1l&index=3&t=0s), [paper]()] |
+| 10:40 | [**Christian Gogolin**](http://www.cgogolin.de/) (Covestro AG, Leverkusen): <br> _"Quantum many-body systems - understanding them with and using them as new machine learning tools"_ |   [[video](https://www.youtube.com/watch?v=0hs2LGTIZ3U&list=PLRiRoNGVCVlDk7LGCHpQG8kOfDj54NN1l&index=4&t=0s), [paper]()] |
+| 11:20 | [**Yunpu Ma**](https://dblp.uni-trier.de/pers/m/Ma:Yunpu.html) and [**Volker Tresp**](https://www.dbs.ifi.lmu.de/~tresp/) (Siemens AG and LMU, Munich): <br> _"Quantum Machine Learning Algorithms for Knowledge Graphs"_ |   [[video](https://www.youtube.com/watch?v=shNhzQCJYPs&list=PLRiRoNGVCVlDk7LGCHpQG8kOfDj54NN1l&index=5&t=0s), [paper]()] |
 | 12:00 | **Break** | |
 
 ### Statistical Physics for Machine Learning II
@@ -84,8 +84,8 @@ After each session, there will be parallel breakout sessions where you can meet 
 
 | Time          | Talk      | Link     |
 | ------------- | --------- | --------:|
-| 13:00 | [**Lenka Zdeborova**](http://artax.karlin.mff.cuni.cz/~zdebl9am/) (CEA, Saclay): <br> _"The role of data structure in learning in shallow neural networks"_ | [[video](), [paper]()] |
-| 13:40 | [**Florian Marquardt**](http://www.thp2.nat.uni-erlangen.de/index.php/Homepage_Florian_Marquardt) (Max Planck Institute for the Science of Light, Erlangen): <br> _"Self-learning machines based on nonlinear field evolution"_ |   [[video](), [paper]()] |
+| 13:00 | [**Lenka Zdeborova**](http://artax.karlin.mff.cuni.cz/~zdebl9am/) (CEA, Saclay): <br> _"The role of data structure in learning in shallow neural networks"_ | [[video](https://www.youtube.com/watch?v=HO5FqP-jGrA&list=PLRiRoNGVCVlDk7LGCHpQG8kOfDj54NN1l&index=6&t=0s), [paper]()] |
+| 13:40 | [**Florian Marquardt**](http://www.thp2.nat.uni-erlangen.de/index.php/Homepage_Florian_Marquardt) (Max Planck Institute for the Science of Light, Erlangen): <br> _"Self-learning machines based on nonlinear field evolution"_ |   [[video](https://www.youtube.com/watch?v=oQxlBl_7a1Q&list=PLRiRoNGVCVlDk7LGCHpQG8kOfDj54NN1l&index=7&t=0s), [paper]()] |
 | 14:20 | [**Bert Kappen**](http://www.snn.ru.nl/~bertk/) (Radboud University, Nijmegen): <br> _"An atomic Boltzmann machine capable of on-chip learning "_ |   [[video](), [paper]()] |
 | 15:00 | **Break** | |
 
@@ -95,9 +95,9 @@ After each session, there will be parallel breakout sessions where you can meet 
 
 | Time          | Talk      | Link     |
 | ------------- | --------- | --------:|
-| 16:00 | [**Roberto Bondesan**](https://scholar.google.com/citations?user=l2z7p3oAAAAJ&hl=en) (Qualcomm AI Research, Amsterdam): <br> _"Quantum Deformed Binary Neural Networks"_ | [[video](), [paper]()] |
-| 16:40 | [**Laurent Daudet**](https://www.institut-langevin.espci.fr/laurent_daudet?lang=fr) (Lighton, Paris): <br> _"Mix and Match: leveraging optically-created random embeddings in Machine Learning pipelines"_ |   [[video](), [paper]()] |
-| 17:20 | [**Frank Noe**](http://www.mi.fu-berlin.de/en/math/groups/comp-mol-bio/) (Freie Universitaet, Berlin): <br> _"Deep neural network solution of the electronic Schrödinger equation"_ |   [[video](), [paper]()] |
+| 16:00 | [**Roberto Bondesan**](https://scholar.google.com/citations?user=l2z7p3oAAAAJ&hl=en) (Qualcomm AI Research, Amsterdam): <br> _"Quantum Deformed Binary Neural Networks"_ | [[video](https://www.youtube.com/watch?v=tDAPcj-P46U&list=PLRiRoNGVCVlDk7LGCHpQG8kOfDj54NN1l&index=8&t=0s), [paper]()] |
+| 16:40 | [**Laurent Daudet**](https://www.institut-langevin.espci.fr/laurent_daudet?lang=fr) (Lighton, Paris): <br> _"Mix and Match: leveraging optically-created random embeddings in Machine Learning pipelines"_ |   [[video](https://www.youtube.com/watch?v=oAZb2vdHDQw&list=PLRiRoNGVCVlDk7LGCHpQG8kOfDj54NN1l&index=9&t=0s), [paper]()] |
+| 17:20 | [**Frank Noe**](http://www.mi.fu-berlin.de/en/math/groups/comp-mol-bio/) (Freie Universitaet, Berlin): <br> _"Deep neural network solution of the electronic Schrödinger equation"_ |   [[video](https://www.youtube.com/watch?v=QPVcL6gg0d0&list=PLRiRoNGVCVlDk7LGCHpQG8kOfDj54NN1l&index=10&t=0s), [paper]()] |
 
 ## Day three  (08-07-2020)
 
