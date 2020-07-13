@@ -36,8 +36,8 @@ After each session, there will be parallel breakout sessions where you can meet 
 
 | Time          | Talk      | Link     |
 | ------------- | --------- | --------:|
-| 10:00 | [**Hans Briegel**](https://scholar.google.at/citations?user=CtRLfr4AAAAJ&hl=de) (University Innsbruck, Innsbruck): <br> _"Learning and AI in the quantum domain"_ | [[video](https://www.youtube.com/watch?v=mNopAugzM6U&list=PLRiRoNGVCVlBYB1M8t0EncU94n6As0-Da&index=4&t=1205s), [paper]()] |
-| 10:40 | [**Glen Mbeng**](https://scholar.google.com/citations?user=9cBUERoAAAAJ&hl=en) (SISSA, Trieste): <br> _"Reinforcement Learning assisted Quantum Optimization"_     |   [[video](https://www.youtube.com/watch?v=7vyBVnfhl_s&list=PLRiRoNGVCVlBYB1M8t0EncU94n6As0-Da&index=5&t=0s), [paper]()] |
+| 10:00 | [**Hans Briegel**](https://scholar.google.at/citations?user=CtRLfr4AAAAJ&hl=de) (Innsbruck University, Innsbruck): <br> _"Learning and AI in the quantum domain"_ | [[video](https://www.youtube.com/watch?v=mNopAugzM6U&list=PLRiRoNGVCVlBYB1M8t0EncU94n6As0-Da&index=4&t=1205s), [paper]()] |
+| 10:40 | [**Glen Mbeng**](https://scholar.google.com/citations?user=9cBUERoAAAAJ&hl=en) (Innsbruck University, Innsbruck): <br> _"Reinforcement Learning assisted Quantum Optimization"_     |   [[video](https://www.youtube.com/watch?v=7vyBVnfhl_s&list=PLRiRoNGVCVlBYB1M8t0EncU94n6As0-Da&index=5&t=0s), [paper]()] |
 | 11:20 | [**Bert Kappen**](http://www.snn.ru.nl/~bertk/) (Radboud University, Nijmegen): <br> _"Learning quantum models from quantum or classical data"_ |   [[video](https://www.youtube.com/watch?v=PzttyzAmVOM&list=PLRiRoNGVCVlBYB1M8t0EncU94n6As0-Da&index=6&t=0s), [paper](https://arxiv.org/abs/1803.11278)] |
 | 12:00 | **Break** | |
 
