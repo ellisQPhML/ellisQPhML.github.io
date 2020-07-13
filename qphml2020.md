@@ -5,9 +5,7 @@ layout: default
 
 # Ellis QPhML 2020
 
-**Registration is closed.** In case you didn't register you can follow the [**live streaming on YouTube**](https://www.youtube.com/channel/UChOT4vx_PekVp9JaLIe-o0g).
-
-> The workshop will be held online. Details on how to connect will be announced soon.
+The meeting was held 6-8 July 2020. You can watch the videos of all talks in the links below or on the [**QPhML2020 YouTube Channel**](https://www.youtube.com/channel/UChOT4vx_PekVp9JaLIe-o0g/playlists?view=1&sort=da&flow=grid).
 
 [![Ellis Logo](assets/images/ellis-logo-transparent-1.png)](https://ellis.eu/)
 
