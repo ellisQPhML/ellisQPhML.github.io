@@ -3,7 +3,7 @@ title: Ellis QPhML - ESA PhiLab 2021 Workshop
 layout: ellis_philab_2021
 ---
 
-# Ellis-ESA 2021
+# Ellis-ESA Workshop 2021
 
 > The workshop will be held online. Details on how to connect will be announced soon.
 
@@ -13,9 +13,11 @@ The Ellis program Quantum and Physics based machine learning ([**QPhML**](https:
 
 Learn more: [[Ellis initiative](https://ellis.eu/), [Ellis Fellows QPhML Program](https://ellisqphml.github.io/)]
 
+[![PhiLab Logo](assets/images/ellis_esa2021/phi-lab-logo.png)](https://philab.phi.esa.int/)
+
 The [**ESA**](http://www.esa.int/) Phi-Lab is a catalyst for Earth Observation innovative and transformative ideas, and a bridge within Earth Observation’s ecosystem of innovative players which connects the actors of Industry, Investors, and Academia to foster entrepreneurial initiatives.
 
-Learn more: [[Phi-Lab](https://philab.phi.esa.int/)
+Learn more: [Phi-Lab](https://philab.phi.esa.int/)
 
 # Aims and Scope
 
@@ -40,7 +42,7 @@ Below you find the tentative program of the workshop. There will be a public wor
 
 | Time          | Talk      | Link     |
 | ------------- | --------- | --------:|
-| 13:00 | [**Workshop Organizers**]: <br> _"Workshop opening talk"_     |   [[video]()] |
+| 13:00 | [**Workshop Organizers**](): <br> _"Workshop opening talk"_     |   [[video]()] |
 | 13:15 | [**TBC**]() (): <br> _"TBC"_ | [[video](), [paper]()] |
 | 13:45 | [**Paolo Gamba**](http://tlclab.unipv.it/index.php/people/the-team/23-people/71-paolo-gamba) (Univ. Pavia and I.T., Pavia): <br> _"TBC"_     |   [[video](), [paper]()] |
 | 14:15 | [**TBC**]() (): <br> _"TBC"_      |   [[video](), [paper]()] |
@@ -50,7 +52,7 @@ Below you find the tentative program of the workshop. There will be a public wor
 | 14:55 | [**Iordanis Kerenidis**](https://www.irif.fr/~jkeren/jkeren/Iordanis_Kerenidis.html) (QC Ware / CNRS - FR, Paris): <br> _"TBC"_      |   [[video](), [paper]()] |
 | 15:25 | [**TBC**]() (): <br> _"TBC"_      |   [[video](), [paper]()] |
 | 15:55 | [**Kristel Michielsen**](https://www.fz-juelich.de/SharedDocs/Personen/IAS/JSC/EN/staff/michielsen_k.html) (Julich FZ - DE, Julich): <br> _"TBC"_      |   [[video](), [paper]()] |
-| 16:25 | [**Workshop Organizers**]() (): <br> _"Closing Address"_      |   [[video]() |
+| 16:25 | [**Workshop Organizers**](): <br> _"Closing Address"_      |   [[video]() |
 | 16:45 | **15 Minutes Breakout Session** | [[video]()] |
 
 ### Debriefing Roundtable (Closed)
