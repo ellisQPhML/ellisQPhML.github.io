@@ -13,11 +13,11 @@ The Ellis program Quantum and Physics based machine learning ([**QPhML**](https:
 
 Learn more: [[Ellis initiative](https://ellis.eu/), [Ellis Fellows QPhML Program](https://ellisqphml.github.io/)]
 
-[![PhiLab Logo](assets/images/ellis_esa2021/phi-lab-logo.png)](https://philab.phi.esa.int/)
+[![PhiLab Logo](assets/images/ellis_esa2021/phi-lab-logo_smaller.png)](https://philab.phi.esa.int/)
 
 The [**ESA**](http://www.esa.int/) Phi-Lab is a catalyst for Earth Observation innovative and transformative ideas, and a bridge within Earth Observation’s ecosystem of innovative players which connects the actors of Industry, Investors, and Academia to foster entrepreneurial initiatives.
 
-Learn more: [Phi-Lab](https://philab.phi.esa.int/)
+Learn more: [[Phi-Lab](https://philab.phi.esa.int/)]
 
 # Aims and Scope
 
