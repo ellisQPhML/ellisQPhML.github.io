@@ -40,22 +40,22 @@ The Ellis program is realized through the active involvement of the Ellis Fellow
 **David Gross** Institute for Theoretical Physics, University of Cologne (Cologne). [[web](https://www.thp.uni-koeln.de/gross/david_gross.html)]
 
 **Florian Marquardt** Institute for Theoretical physics, Max Planck Institute (Erlangen). [[web](http://www.thp2.nat.uni-erlangen.de/index.php/Homepage_Florian_Marquardt)]
-    
+
 **Matthias Rupp** Department of Theory, Fritz-Haber-Institut of the Max Planck Society (Berlin). [[web](https://www.mrupp.info/)]
 
 **Gabor Csanyi** Department of Engineering, University of Cambridge (Cambridge). [[web](http://www.eng.cam.ac.uk/profiles/gc121)]
 
 **Florent Krzakala** Department of Physics, Ecole Normal Superieur (Paris). [[web](https://florentkrzakala.com/)]
-    
+
 **Giulio Biroli** Department of Physics, Ecole Normal Superieur (Paris). [[web](https://prairie-institute.fr/chairs/biroli-giulio/)]
-    
+
 **Lenka Zdeborova** Institute for theoretical physics, University Paris-Saclay (Paris). [[web](http://artax.karlin.mff.cuni.cz/~zdebl9am/)]
-    
+
 **Jens Eisert** Dahlem Center for Complex Quantum Systems Free University Berlin (Berlin). [[web](https://www.physik.fu-berlin.de/en/einrichtungen/ag/ag-eisert/people/eisert/index.html)]
 
 **Giuseppe Santoro** SISSA (Trieste). [[web](https://cm.sissa.it/people/members.php?ID=3)]
-    
-**Remi Monasson** Department of Physics, Ecole Normal Superieur (Paris). [[web](http://www.phys.ens.fr/~monasson/)] 
+
+**Remi Monasson** Department of Physics, Ecole Normal Superieur (Paris). [[web](http://www.phys.ens.fr/~monasson/)]
 
 ## Ellis Scholars
 
@@ -63,27 +63,27 @@ The Ellis program is realized through the active involvement of the Ellis Fellow
 
 **Vedran Dunjko** Leiden Institute for Advanced Computer Science, University Leiden (Leiden). [[web](https://www.universiteitleiden.nl/en/staffmembers/vedran-dunjko#tab-1)]
 
-**Giuseppe Carleo** Center for Computational Quantum Physics, Flatiron Institute (New York). [[web](https://www.simonsfoundation.org/team/giuseppe-carleo/)] 
+**Giuseppe Carleo** Center for Computational Quantum Physics, Flatiron Institute (New York). [[web](https://www.simonsfoundation.org/team/giuseppe-carleo/)]
 
 ## Ellis Guests
 
 **Marc Mezard** Department of Physics, Ecole Normal Superieur (Paris). [[web](https://www.marcmezard.fr/)]
-    
+
 **Nicolas Regnault** Department of Physics, Ecole Normal Superieur (Paris). [[web](http://www.phys.ens.fr/~regnault/)]
-    
+
 **Jorge Kurchan** Department of Physics, Ecole Normal Superieur (Paris). [[web](https://scholar.google.fr/citations?user=18qQeMMAAAAJ&hl=fr)]
-    
+
 **Matthias Troyer** ETH Zurich and Microsoft Research. [[web](https://www.microsoft.com/en-us/research/people/mtroyer/)]
-    
+
 **Manfred Opper** TU (Berlin). [[web](https://dblp.uni-trier.de/pers/o/Opper:Manfred.html)]
-    
+
 **Hans Briegel** Institut für Theoretische Physik, University of Innsbrück (Innsbrück). [[web](https://www.uibk.ac.at/th-physik/staff/briegel/)]
-    
+
 **Aram Harrow** MIT (Boston). [[web](http://web.mit.edu/aram/www/)]
-    
+
 **Valentina Ros** Department of Physics, Ecole Normal Superieur (Paris). [[web](https://scholar.google.it/citations?user=9809-1wAAAAJ&hl=it)]
-    
-**Andrea Rocchetto** Department of Computer Science, University of Texas at Austin, (Austin). [[web](https://andrearocchetto.github.io/)] 
+
+**Andrea Rocchetto** Department of Computer Science, University of Texas at Austin, (Austin). [[web](https://andrearocchetto.github.io/)]
 
 **Frank Noe** AI4Science, Freie Universitaet (Berlin). [[web](http://www.mi.fu-berlin.de/en/math/groups/comp-mol-bio/)]
 
@@ -92,3 +92,5 @@ The Ellis program is realized through the active involvement of the Ellis Fellow
 [**Ellis QPhML 2019 workshop**](http://dalimeeting.org/dali2019b/workshop-05-04.html). The DALI conference. San Sebastian, 5 September 2019
 
 [**Ellis QPhML 2020 workshop**](https://ellisqphml.github.io/qphml2020). Virtual. Milan - Tübingen - Nijmegen, 6-8 July 2020
+
+[**Ellis QPhML - ESA Phi Lab 2021 workshop**](https://ellisqphml.github.io/ellisphilab2021). Virtual. 27 May 2021
