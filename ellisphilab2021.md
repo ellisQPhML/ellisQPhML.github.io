@@ -1,5 +1,5 @@
 ---
-title: Ellis QPhML - ESA PhiLab 2021 Workshop
+title: Ellis QPhML - ESA &Phi;-lab 2021 Workshop
 layout: ellis_philab_2021
 ---
 
@@ -15,9 +15,9 @@ Learn more: [[Ellis initiative](https://ellis.eu/), [Ellis Fellows QPhML Program
 
 [![PhiLab Logo](assets/images/ellis_esa2021/phi-lab-logo_smaller.png)](https://philab.phi.esa.int/)
 
-The [**ESA**](http://www.esa.int/) Phi-Lab is a catalyst for Earth Observation innovative and transformative ideas, and a bridge within Earth Observation’s ecosystem of innovative players which connects the actors of Industry, Investors, and Academia to foster entrepreneurial initiatives.
+The [**ESA**](http://www.esa.int/) &Phi;-lab is a catalyst for Earth Observation innovative and transformative ideas, and a bridge within Earth Observation’s ecosystem of innovative players which connects the actors of Industry, Investors, and Academia to foster entrepreneurial initiatives.
 
-Learn more: [[Phi-Lab](https://philab.phi.esa.int/)]
+Learn more: [[&Phi;-lab](https://philab.phi.esa.int/)]
 
 # Aims and Scope
 
