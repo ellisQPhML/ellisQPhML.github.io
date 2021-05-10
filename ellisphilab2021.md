@@ -25,11 +25,11 @@ Quantum Computing has the potential of revolutionising information processing an
 
 Quantum computers will redefine parallel and probabilistic computing, and thus will allow to make complex computations in a considerably reduced time. In terms of data analytics, they will enable us to sample and explore huge volumes of scattered data, to identify and retrieve specific patterns, and optimize functionals for all kinds of use-cases. In terms of physics simulation, they will enable solving partial differential equations with applications to e.g. fluid dynamics. Today, thanks to progress in Noisy Intermediate-Scale Quantum (NISQ) devices and classical-quantum hybrid computing, promising approaches are already tested on real machines.
 
-Earth Observation (EO) allows gathering of global information about our planet Earth’s physical, chemical and biological systems via satellites carrying remote sensing devices. The most recurrent issue in EO science is the solution of inverse, ill-conditioned problems, which typically include specific land-cover identification, biophysical parameter estimation and feature extraction, atmospheric inverse problems, gravimetry, etc. EO needs the unprecedented power of Quantum Computing to face current challenges in:
+Earth Observation (EO) allows gathering of global information about our planet Earth’s physical, chemical and biological systems via satellites carrying remote sensing devices. The most recurrent issue in EO science is the solution of inverse, ill-conditioned problems, which typically include specific land-cover identification, biophysical parameter estimation and feature extraction, atmospheric inverse problems, gravimetry, etc. EO needs the unprecedented power of Quantum Computing to face current challenges in processing of Earth system measurements and data.
 
 # Participation
 
-Participation in the workshop is open to everyone in the limit of technical capacities. Registration by e-mail to xxx@
+Participation in the workshop is open to everyone in the limit of technical capacities. Registration by filling this form: [[**Registration**](https://forms.gle/4V2wMYk8AVdN6ehq8)]
 
 # Program
 
@@ -43,21 +43,21 @@ Below you find the tentative program of the workshop. There will be a public wor
 | Time          | Talk      | Link     |
 | ------------- | --------- | --------:|
 | 13:00 | [**Workshop Organizers**](): <br> _"Workshop opening talk"_     |   [[video]()] |
-| 13:15 | [**TBC**]() (): <br> _"TBC"_ | [[video](), [paper]()] |
-| 13:45 | [**Paolo Gamba**](http://tlclab.unipv.it/index.php/people/the-team/23-people/71-paolo-gamba) (Univ. Pavia and I.T., Pavia): <br> _"TBC"_     |   [[video](), [paper]()] |
-| 14:15 | [**TBC**]() (): <br> _"TBC"_      |   [[video](), [paper]()] |
-| 14:45 | [**10 Minutes Breakout Session**]  |   [[video](), [paper]()] |
-| 14:55 | [**Iordanis Kerenidis**](https://www.irif.fr/~jkeren/jkeren/Iordanis_Kerenidis.html) (QC Ware / CNRS - FR, Paris): <br> _"TBC"_      |   [[video](), [paper]()] |
-| 15:25 | [**TBC**]() (): <br> _"TBC"_      |   [[video](), [paper]()] |
-| 15:55 | [**Kristel Michielsen**](https://www.fz-juelich.de/SharedDocs/Personen/IAS/JSC/EN/staff/michielsen_k.html) (Julich FZ - DE, Julich): <br> _"TBC"_      |   [[video](), [paper]()] |
+| 13:15 | [**TBC**]() (): <br> _"TBC"_ | [[video](), [abstract and bio]()] |
+| 13:45 | [**Paolo Gamba**](http://tlclab.unipv.it/index.php/people/the-team/23-people/71-paolo-gamba) (Univ. Pavia and I.T., Pavia): <br> _"TBC"_     |   [[video](), [abstract and bio]()] |
+| 14:15 | [**TBC**]() (): <br> _"TBC"_      |   [[video](), [abstract and bio]()] |
+| 14:45 | [**10 Minutes Breakout Session**]  |   [[video](), [abstract and bio]()] |
+| 14:55 | [**Iordanis Kerenidis**](https://www.irif.fr/~jkeren/jkeren/Iordanis_Kerenidis.html) (QC Ware / CNRS - FR, Paris): <br> _"TBC"_      |   [[video](), [abstract and bio]()] |
+| 15:25 | [**TBC**]() (): <br> _"TBC"_      |   [[video](), [abstract and bio]()] |
+| 15:55 | [**Kristel Michielsen**](https://www.fz-juelich.de/SharedDocs/Personen/IAS/JSC/EN/staff/michielsen_k.html) (Julich FZ - DE, Julich): <br> _"TBC"_      |   [[video](), [abstract and bio]()] |
 | 16:25 | [**Workshop Organizers**](): <br> _"Closing Address"_      |   [[video]() |
 | 16:45 | **15 Minutes Breakout Session** | [[video]()] |
 
-### Debriefing Roundtable (Closed)
+### Debriefing Roundtable (Closed Session)
 
-| Time          | Talk      | Link     |
-| ------------- | --------- | --------:|
-| 17:00 | [**Panelists**]: <br> _"Panel Discussion"_     |   [[video]()] |
+| Time          | Talk      |
+| ------------- | --------- |
+| 17:00 | [**Panelists**]: <br> _"Panel Discussion"_     |
 
 
 # Organizers
