@@ -50,7 +50,7 @@ Below you find the tentative program of the workshop. There will be a public wor
 | 14:55 | [**Iordanis Kerenidis**](https://www.irif.fr/~jkeren/jkeren/Iordanis_Kerenidis.html) (QC Ware / CNRS - FR, Paris): <br> _"TBC"_      |   [[video](), [abstract and bio]()] |
 | 15:25 | [**TBC**]() (): <br> _"TBC"_      |   [[video](), [abstract and bio]()] |
 | 15:55 | [**Kristel Michielsen**](https://www.fz-juelich.de/SharedDocs/Personen/IAS/JSC/EN/staff/michielsen_k.html) (Julich FZ - DE, Julich): <br> _"TBC"_      |   [[video](), [abstract and bio]()] |
-| 16:25 | [**Workshop Organizers**](): <br> _"Closing Address"_      |   [[video]() |
+| 16:25 | [**Workshop Organizers**](): <br> _"Closing Address"_      |   [[video]()] |
 | 16:45 | **15 Minutes Breakout Session** | [[video]()] |
 
 ### Debriefing Roundtable (Closed Session)
