@@ -70,6 +70,6 @@ Below you find the tentative program of the workshop. There will be a public wor
 
 **Giuseppe Borghi** [[web](https://philab.phi.esa.int/)]
 
-# Web Chair
+### Web Chair
 
-**Gabriele Perugini**[[web](https://www.artlab.unibocconi.eu/wps/wcm/connect/cdr/artlab/home/people/students+and+postdocs/gabriele+perugini)]
+**Gabriele Perugini** [[web](https://www.artlab.unibocconi.eu/wps/wcm/connect/cdr/artlab/home/people/students+and+postdocs/gabriele+perugini)]
