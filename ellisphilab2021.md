@@ -48,7 +48,7 @@ Below you find the tentative program of the workshop. There will be a public wor
 | 14:15 | [**Vlatko Vedral**](https://scholar.google.co.uk/citations?user=d0ruO6gAAAAJ&hl=en) (Oxford - UK): <br> _"TBC"_      |   [[video](), [abstract and bio]()] |
 | 14:45 | [**10 Minutes Breakout Session**]  |   [[video]()] |
 | 14:55 | [**Iordanis Kerenidis**](https://www.irif.fr/~jkeren/jkeren/Iordanis_Kerenidis.html) (QC Ware / CNRS - FR, Paris): <br> _"TBC"_      |   [[video](), [abstract and bio]()] |
-| 15:25 | [**Luca Biferale**](http://people.fisica.uniroma2.it/~biferale/) (INFN, Univ. Rome “Tor Vergata” - IT): <br> _"TBC"_      |   [[video](), [abstract and bio]()] |
+| 15:25 | [**Luca Biferale**](http://people.fisica.uniroma2.it/~biferale/) (INFN, Univ. Rome “Tor Vergata” - IT): <br> _"(Q)ML approaches to simulations of complex fluids PDE (TBC)"_      |   [[video](), [abstract and bio]()] |
 | 15:55 | [**Kristel Michielsen**](https://www.fz-juelich.de/SharedDocs/Personen/IAS/JSC/EN/staff/michielsen_k.html) (Julich FZ - DE, Julich): <br> _"TBC"_      |   [[video](), [abstract and bio]()] |
 | 16:25 | [**Workshop Organizers**](): <br> _"Closing Address"_      |   [[video]()] |
 | 16:45 | **15 Minutes Breakout Session** | [[video]()] |
