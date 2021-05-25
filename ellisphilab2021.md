@@ -43,7 +43,7 @@ Below you find the tentative program of the workshop. There will be a public wor
 | Time          | Talk      | Link     |
 | ------------- | --------- | --------:|
 | 13:00 | [**Workshop Organizers**](): <br> _"Workshop opening talk"_     |   [[video]()] |
-| 13:15 | [**Pan Zhang**](http://home.itp.ac.cn/~panzhang/) (Institute of Theoretical Physics, Chinese Academy of Sciences - CN): <br> _"Computation with Tensor Networks"_ | [[video](), [abstract and bio]()] |
+| 13:15 | [**Pan Zhang**](http://home.itp.ac.cn/~panzhang/) (Institute of Theoretical Physics, Chinese Academy of Sciences - CN): <br> _"Computation with Tensor Networks"_ | [[video](), [abstract and bio](https://github.com/ellisQPhML/ellisQPhML.github.io/blob/master/ellisphilab2021_abstract_and_bio.md#computation-with-tensor-networks-pan-zhang)] |
 | 13:45 | [**Paolo Gamba**](http://tlclab.unipv.it/index.php/people/the-team/23-people/71-paolo-gamba) (Univ. Pavia - IT): <br> _"Fusion, exploration and unmixing of EO data: challenges and perspectives"_     |   [[video](), [abstract and bio]()] |
 | 14:15 | [**Vlatko Vedral**](https://www2.physics.ox.ac.uk/contacts/people/vedral) (Oxford - UK): <br> _"TBC"_      |   [[video](), [abstract and bio]()] |
 | 14:45 | [**10 Minutes Breakout Session**]  |   [[video]()] |
