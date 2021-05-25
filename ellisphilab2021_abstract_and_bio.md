@@ -3,7 +3,7 @@ title: Ellis QPhML - ESA &Phi;-lab 2021 Workshop
 layout: ellis_philab_2021
 ---
 
-## <a name="zhang"></a>"Computation with Tensor Networks", [**Pan Zhang**](http://home.itp.ac.cn/~panzhang/)
+## <a name="zhang"></a>"Computation with Tensor Networks",<br /> [**Pan Zhang**](http://home.itp.ac.cn/~panzhang/)
 
 ### Abstract
 
@@ -14,7 +14,7 @@ In statistical mechanics problems, the partition function at a finite temperatur
 
 Pan Zhang is working as a professor at the Institute of Theoretical Physics, Chinese Academy of Sciences (ITP, CAS). He got his Ph.D. from Lanzhou University in 2009 and did post-docs at Turin, Paris and the Santa Fe Institute with Riccardo Zecchina, Florent Krzakala, and Cris Moore, respectively, before joining ITP, CAS in 2015. Pan Zhang’s research is in the interdisciplinary field of statistical physics, machine learning, quantum many-body, and quantum computation.
 
-## <a name="gamba"></a>"Fusion, exploration and unmixing of EO data: challenges and perspectives", [**Paolo Gamba**](http://tlclab.unipv.it/index.php/people/the-team/23-people/71-paolo-gamba)
+## <a name="gamba"></a>"Fusion, exploration and unmixing of EO data: challenges and perspectives",<br /> [**Paolo Gamba**](http://tlclab.unipv.it/index.php/people/the-team/23-people/71-paolo-gamba)
 
 ### Abstract
 
@@ -24,7 +24,7 @@ The more rich and detailed in terms of spectral, spatial and temporal resolution
 
 Paolo Gamba is Professor at the University of Pavia, Italy, where he leads the Telecommunications and Remote Sensing Laboratory.  He has been working for more than 25 years in urban remote sensing applications, addressing the need to analyze large amounts of data from multiple satellites, from radar to multispectral, from hyperspectral to thermal, always considering a global perspective. He has been invited to give keynote lectures and tutorials on several occasions about urban remote sensing, data fusion, EO data for physical exposure and risk management. He published more than 170 papers in international peer-review journals.
 
-## <a name="vlatko"></a>"The current state of quantum computing", [**Vedral Vlatko**](https://www2.physics.ox.ac.uk/contacts/people/vedral)
+## <a name="vlatko"></a>"The current state of quantum computing",<br /> [**Vedral Vlatko**](https://www2.physics.ox.ac.uk/contacts/people/vedral)
 
 ### Abstract
 
@@ -34,7 +34,7 @@ I will review the basics of quantum computing and talk about different qubit pla
 
 Vlatko Vedral (PhD and BSc at Imperial College) is a professor of quantum information at Oxford and professor of physics at the National University of Singapore. He has published over 350 research papers on various topics in quantum physics and quantum computing and is one of the Clarivate Highly Cited Researchers. He has given numerous invited plenary and public talks during his career. These include a specialised talk at a Solvay meeting (2010) and a popular one at the International Safe Scientifique (2007). He was awarded the Royal Society Wolfson Research Merit Award in 2007, the World Scientific Medal and Prize in 2009, the Marko Jaric Award in 2010 and was elected a Fellow of the Institute of Physics in 2017 and a member of the European Academy of Sciences in 2020. He is consulting the World Economic Forum on the Future of Computation. Vlatko is the author of 4 textbooks and 2 popular books (“Decoding Reality” and “From Micro to Macro”). He gives regular interviews to the media and is actively engaged in popularization of physics also by writing for New Scientist, Scientific American and major UK and overseas newspapers.
 
-## <a name="kerenidis"></a>"Towards quantum machine learning applications", [**Iordanis Kerenidis**](https://www.irif.fr/~jkeren/jkeren/Iordanis_Kerenidis.html)
+## <a name="kerenidis"></a>"Towards quantum machine learning applications",<br /> [**Iordanis Kerenidis**](https://www.irif.fr/~jkeren/jkeren/Iordanis_Kerenidis.html)
 
 ### Abstract
 
@@ -44,7 +44,7 @@ We discuss prospects and challenges towards the first quantum machine learning a
 
 Iordanis Kerenidis received his Ph.D. from the Computer Science Department at the University of California, Berkeley, in 2004, under Umesh Vazirani. After a two-year postdoctoral position at the Massachusetts Institute of Technology with Peter Shor, he joined the Centre National de Recherche Scientifique CNRS in Paris as a research director. He has been the coordinator of a number of EU-funded projects including an ERC Grant, and he is the founder and director of the Paris Centre for Quantum Computing. His research is focused on quantum algorithms for machine learning and optimization, including one of the first end-to-end quantum machine learning applications for recommendation systems, demonstration of quantum classification on trapped ion hardware and NISQ algorithms for Monte Carlo methods in Finance. He is currently working as the Head of Quantum Algorithms Int. at QC Ware Corp.
 
-## <a name="biferale"></a>"Machine Learning tools for PDEs and PDEs tools for Machine Learning", [**Luca Biferale**](http://people.fisica.uniroma2.it/~biferale/)
+## <a name="biferale"></a>"Machine Learning tools for PDEs and PDEs tools for Machine Learning",<br /> [**Luca Biferale**](http://people.fisica.uniroma2.it/~biferale/)
 
 ### Abstract
 
@@ -54,7 +54,7 @@ We briefly summarize the main obstacles for applications of data-driven tools to
 
 Luca Biferale is a Full Professor of Theoretical Physics at the University of Rome 'Tor Vergata'. Main interests include Turbulence, Computational Physics, Kinetic Models and, more recently, Machine Learning and Reinforcement Learning for complex fluids and complex flow applications. He is elected fellow of the APS and Euromech and he has been awarded of 2 ERC AdG Grants (2014-2019) and (2021-2026).
 
-## <a name="michielsen"></a>"Quantum classical hybrid computing models in modular HPC systems with potential applications in Earth Observation", [**Kristel Michielsen**](https://www.fz-juelich.de/SharedDocs/Personen/IAS/JSC/EN/staff/michielsen_k.html)
+## <a name="michielsen"></a>"Quantum classical hybrid computing models in modular HPC systems with potential applications in Earth Observation",<br /> [**Kristel Michielsen**](https://www.fz-juelich.de/SharedDocs/Personen/IAS/JSC/EN/staff/michielsen_k.html)
 
 ### Abstract
 
