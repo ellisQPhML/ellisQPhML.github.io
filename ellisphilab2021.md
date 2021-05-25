@@ -43,13 +43,13 @@ Below you find the tentative program of the workshop. There will be a public wor
 | Time          | Talk      | Link     |
 | ------------- | --------- | --------:|
 | 13:00 | [**Workshop Organizers**](): <br> _"Workshop opening talk"_     |   [[video]()] |
-| 13:15 | [**Pan Zhang**](https://scholar.google.com/citations?user=MFnbrRUAAAAJ&hl=en) (Institute of Theoretical Physics, Chinese Academy of Sciences - CN): <br> _"Computation with Tensor Networks"_ | [[video](), [abstract and bio]()] |
-| 13:45 | [**Paolo Gamba**](http://tlclab.unipv.it/index.php/people/the-team/23-people/71-paolo-gamba) (Univ. Pavia and I.T., Pavia): <br> _"Fusion, exploration and unmixing of EO data: challenges and perspectives"_     |   [[video](), [abstract and bio]()] |
-| 14:15 | [**Vlatko Vedral**](https://scholar.google.co.uk/citations?user=d0ruO6gAAAAJ&hl=en) (Oxford - UK): <br> _"TBC"_      |   [[video](), [abstract and bio]()] |
+| 13:15 | [**Pan Zhang**](http://home.itp.ac.cn/~panzhang/) (Institute of Theoretical Physics, Chinese Academy of Sciences - CN): <br> _"Computation with Tensor Networks"_ | [[video](), [abstract and bio]()] |
+| 13:45 | [**Paolo Gamba**](http://tlclab.unipv.it/index.php/people/the-team/23-people/71-paolo-gamba) (Univ. Pavia - IT): <br> _"Fusion, exploration and unmixing of EO data: challenges and perspectives"_     |   [[video](), [abstract and bio]()] |
+| 14:15 | [**Vlatko Vedral**](https://www2.physics.ox.ac.uk/contacts/people/vedral) (Oxford - UK): <br> _"TBC"_      |   [[video](), [abstract and bio]()] |
 | 14:45 | [**10 Minutes Breakout Session**]  |   [[video]()] |
-| 14:55 | [**Iordanis Kerenidis**](https://www.irif.fr/~jkeren/jkeren/Iordanis_Kerenidis.html) (QC Ware / CNRS - FR, Paris): <br> _"TBC"_      |   [[video](), [abstract and bio]()] |
+| 14:55 | [**Iordanis Kerenidis**](https://www.irif.fr/~jkeren/jkeren/Iordanis_Kerenidis.html) (QC Ware / CNRS - FR): <br> _"TBC"_      |   [[video](), [abstract and bio]()] |
 | 15:25 | [**Luca Biferale**](http://people.fisica.uniroma2.it/~biferale/) (INFN, Univ. Rome “Tor Vergata” - IT): <br> _"(Q)ML approaches to simulations of complex fluids PDE (TBC)"_      |   [[video](), [abstract and bio]()] |
-| 15:55 | [**Kristel Michielsen**](https://www.fz-juelich.de/SharedDocs/Personen/IAS/JSC/EN/staff/michielsen_k.html) (Julich FZ - DE, Julich): <br> _"TBC"_      |   [[video](), [abstract and bio]()] |
+| 15:55 | [**Kristel Michielsen**](https://www.fz-juelich.de/SharedDocs/Personen/IAS/JSC/EN/staff/michielsen_k.html) (Jülich Supercomputing Centre and RWTH Aachen University - DE): <br> _"TBC"_      |   [[video](), [abstract and bio]()] |
 | 16:25 | [**Workshop Organizers**](): <br> _"Closing Address"_      |   [[video]()] |
 | 16:45 | **15 Minutes Breakout Session** | [[video]()] |
 
