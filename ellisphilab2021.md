@@ -57,7 +57,7 @@ Below you find the tentative program of the workshop. There will be a public wor
 
 | Time          | Talk      |
 | ------------- | --------- |
-| 17:00 | [**Panelists**]: <br> _"Panel Discussion"_     |
+| 17:00 | **Panelists**: <br> _"Panel Discussion"_     |
 
 
 # Organizers
