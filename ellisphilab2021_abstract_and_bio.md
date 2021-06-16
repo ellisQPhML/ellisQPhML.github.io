@@ -5,6 +5,8 @@ layout: ellis_philab_2021
 
 ## <a name="zhang"></a>"Computation with Tensor Networks",<br /> [**Pan Zhang**](http://home.itp.ac.cn/~panzhang/)
 
+[[video](https://youtu.be/ZLaOfJQ1hdI), [slides](https://ellisqphml.github.io/ellis_esa2021_slides/01-Pan-Zhang-Tensor-Networks.pdf)]
+
 ### Abstract
 
 Pan Zhang will present methods and algorithms for solving statistical mechanics problems, combinatorial optimization problems, and quantum circuit simulations,  in an integrated framework based on tensor networks.
@@ -16,6 +18,8 @@ Pan Zhang is working as a professor at the Institute of Theoretical Physics, Chi
 
 ## <a name="gamba"></a>"Fusion, exploration and unmixing of EO data: challenges and perspectives",<br /> [**Paolo Gamba**](http://tlclab.unipv.it/index.php/people/the-team/23-people/71-paolo-gamba)
 
+[[video](https://youtu.be/2ihk6Ai5Jo0), [slides](https://ellisqphml.github.io/ellis_esa2021_slides/02-Paolo-Gamba-QC.pdf)]
+
 ### Abstract
 
 The more rich and detailed in terms of spectral, spatial and temporal resolution are the EO data, and the closer to global is the coverage by these data, the more complex are becoming the challenges to achieve a meaningful analysis. This talk intends to explore the major challenges ahead of researchers and practitioners in terms of fusion of EO data at multiple resolutions, EO and non-EO data, EO data exploration in long and complex sequences, and finally with respect to the problem of unmixing hyperspectral data in large geographical areas.
@@ -25,6 +29,8 @@ The more rich and detailed in terms of spectral, spatial and temporal resolution
 Paolo Gamba is Professor at the University of Pavia, Italy, where he leads the Telecommunications and Remote Sensing Laboratory.  He has been working for more than 25 years in urban remote sensing applications, addressing the need to analyze large amounts of data from multiple satellites, from radar to multispectral, from hyperspectral to thermal, always considering a global perspective. He has been invited to give keynote lectures and tutorials on several occasions about urban remote sensing, data fusion, EO data for physical exposure and risk management. He published more than 170 papers in international peer-review journals.
 
 ## <a name="vlatko"></a>"The current state of quantum computing",<br /> [**Vedral Vlatko**](https://www2.physics.ox.ac.uk/contacts/people/vedral)
+
+[[video](https://youtu.be/iwfvRVwB9k8), [slides](https://ellisqphml.github.io/ellis_esa2021_slides/03-Vlatko-Vedral-ESA-presentation.pdf)]
 
 ### Abstract
 
@@ -36,6 +42,8 @@ Vlatko Vedral (PhD and BSc at Imperial College) is a professor of quantum inform
 
 ## <a name="kerenidis"></a>"Towards quantum machine learning applications",<br /> [**Iordanis Kerenidis**](https://www.irif.fr/~jkeren/jkeren/Iordanis_Kerenidis.html)
 
+[[video](https://youtu.be/qkvfVAPUzbo), [slides](https://ellisqphml.github.io/ellis_esa2021_slides/04-Iordanis-Kerenidis-ELLIS-QML.pdf)]
+
 ### Abstract
 
 We discuss prospects and challenges towards the first quantum machine learning applications with NISQ machines.
@@ -46,6 +54,8 @@ Iordanis Kerenidis received his Ph.D. from the Computer Science Department at th
 
 ## <a name="biferale"></a>"Machine Learning tools for PDEs and PDEs tools for Machine Learning",<br /> [**Luca Biferale**](http://people.fisica.uniroma2.it/~biferale/)
 
+[[video](https://youtu.be/tF60kf_JTDI), [slides](https://ellisqphml.github.io/ellis_esa2021_slides/05-Luca-Biferale-ESA-Ellis.pdf)]
+
 ### Abstract
 
 We briefly summarize the main obstacles for applications of data-driven tools to study complex fluid dynamics in general and turbulence in particular. We discuss new tools in the box based on the embedding of the PDE solver in the Machine Learning loop with two examples one for Data Assimilation and the other for sub-grid-scale modelling.
@@ -55,6 +65,8 @@ We briefly summarize the main obstacles for applications of data-driven tools to
 Luca Biferale is a Full Professor of Theoretical Physics at the University of Rome 'Tor Vergata'. Main interests include Turbulence, Computational Physics, Kinetic Models and, more recently, Machine Learning and Reinforcement Learning for complex fluids and complex flow applications. He is elected fellow of the APS and Euromech and he has been awarded of 2 ERC AdG Grants (2014-2019) and (2021-2026).
 
 ## <a name="michielsen"></a>"Quantum classical hybrid computing models in modular HPC systems with potential applications in Earth Observation",<br /> [**Kristel Michielsen**](https://www.fz-juelich.de/SharedDocs/Personen/IAS/JSC/EN/staff/michielsen_k.html)
+
+[[video](https://youtu.be/erAF1JmqXnk), [slides](https://ellisqphml.github.io/ellis_esa2021_slides/06-Kristel-Michielsen-Ellis-ESA-workshop_20210526.pdf)]
 
 ### Abstract
 
