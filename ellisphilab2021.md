@@ -5,7 +5,7 @@ layout: ellis_philab_2021
 
 # Ellis-ESA Workshop 2021
 
-> The workshop will be held online. Details on how to connect will be announced soon.
+> The workshop was held online. The videos of the talks can be found [**here**](https://youtube.com/playlist?list=PLCG8d74dLVO9ypUTaR7zSJatzFs37wyOg)
 
 [![Ellis Logo](assets/images/ellis-logo-transparent-1.png)](https://ellis.eu/)
 
@@ -42,15 +42,15 @@ Below you find the tentative program of the workshop. There will be a public wor
 
 | Time          | Talk      | Link     |
 | ------------- | --------- | --------:|
-| 13:00 | [**Workshop Organizers**](): <br> _"Workshop opening talk"_     |   [[video]()] |
-| 13:15 | [**Pan Zhang**](http://home.itp.ac.cn/~panzhang/) (Institute of Theoretical Physics, Chinese Academy of Sciences - CN): <br> _"Computation with Tensor Networks"_ | [[video](), [abstract and bio](https://ellisqphml.github.io/ellisphilab2021_abstract_and_bio#computation-with-tensor-networks-pan-zhang)] |
-| 13:45 | [**Paolo Gamba**](http://tlclab.unipv.it/index.php/people/the-team/23-people/71-paolo-gamba) (Univ. Pavia - IT): <br> _"Fusion, exploration and unmixing of EO data: challenges and perspectives"_     |   [[video](), [abstract and bio](https://ellisqphml.github.io/ellisphilab2021_abstract_and_bio#fusion-exploration-and-unmixing-of-eo-data-challenges-and-perspectives-paolo-gamba)] |
-| 14:15 | [**Vlatko Vedral**](https://www2.physics.ox.ac.uk/contacts/people/vedral) (Univ. Oxford - UK): <br> _"The current state of quantum computing"_      |   [[video](), [abstract and bio](https://ellisqphml.github.io/ellisphilab2021_abstract_and_bio#the-current-state-of-quantum-computing-vedral-vlatko)] |
+| 13:00 | [**Workshop Organizers**](): <br> _"Workshop opening talk"_     |   [[video](https://youtu.be/ZeLSwHh-SPs)] |
+| 13:15 | [**Pan Zhang**](http://home.itp.ac.cn/~panzhang/) (Institute of Theoretical Physics, Chinese Academy of Sciences - CN): <br> _"Computation with Tensor Networks"_ | [[video](https://youtu.be/ZLaOfJQ1hdI), [abstract and bio](https://ellisqphml.github.io/ellisphilab2021_abstract_and_bio#computation-with-tensor-networks-pan-zhang)] |
+| 13:45 | [**Paolo Gamba**](http://tlclab.unipv.it/index.php/people/the-team/23-people/71-paolo-gamba) (Univ. Pavia - IT): <br> _"Fusion, exploration and unmixing of EO data: challenges and perspectives"_     |   [[video](https://youtu.be/2ihk6Ai5Jo0), [abstract and bio](https://ellisqphml.github.io/ellisphilab2021_abstract_and_bio#fusion-exploration-and-unmixing-of-eo-data-challenges-and-perspectives-paolo-gamba)] |
+| 14:15 | [**Vlatko Vedral**](https://www2.physics.ox.ac.uk/contacts/people/vedral) (Univ. Oxford - UK): <br> _"The current state of quantum computing"_      |   [[video](https://youtu.be/iwfvRVwB9k8), [abstract and bio](https://ellisqphml.github.io/ellisphilab2021_abstract_and_bio#the-current-state-of-quantum-computing-vedral-vlatko)] |
 | 14:45 | **10 Minutes Breakout Session**  |    |
-| 14:55 | [**Iordanis Kerenidis**](https://www.irif.fr/~jkeren/jkeren/Iordanis_Kerenidis.html) (QC Ware / CNRS - FR): <br> _"Towards quantum machine learning applications"_      |   [[video](), [abstract and bio](https://ellisqphml.github.io/ellisphilab2021_abstract_and_bio#towards-quantum-machine-learning-applications-iordanis-kerenidis)] |
-| 15:25 | [**Luca Biferale**](http://people.fisica.uniroma2.it/~biferale/) (INFN, Univ. Rome “Tor Vergata” - IT): <br> _"Machine Learning tools for PDEs and PDEs tools for Machine Learning"_      |   [[video](), [abstract and bio](https://ellisqphml.github.io/ellisphilab2021_abstract_and_bio#machine-learning-tools-for-pdes-and-pdes-tools-for-machine-learning-luca-biferale)] |
-| 15:55 | [**Kristel Michielsen**](https://www.fz-juelich.de/SharedDocs/Personen/IAS/JSC/EN/staff/michielsen_k.html) (Jülich Supercomputing Centre and RWTH Aachen University - DE): <br> _"Quantum classical hybrid computing models in modular HPC systems with potential applications in Earth Observation"_      |   [[video](), [abstract and bio](https://ellisqphml.github.io/ellisphilab2021_abstract_and_bio#quantum-classical-hybrid-computing-models-in-modular-hpc-systems-with-potential-applications-in-earth-observation-kristel-michielsen)] |
-| 16:25 | [**Workshop Organizers**](): <br> _"Closing Address"_      |   [[video]()] |
+| 14:55 | [**Iordanis Kerenidis**](https://www.irif.fr/~jkeren/jkeren/Iordanis_Kerenidis.html) (QC Ware / CNRS - FR): <br> _"Towards quantum machine learning applications"_      |   [[video](https://youtu.be/qkvfVAPUzbo), [abstract and bio](https://ellisqphml.github.io/ellisphilab2021_abstract_and_bio#towards-quantum-machine-learning-applications-iordanis-kerenidis)] |
+| 15:25 | [**Luca Biferale**](http://people.fisica.uniroma2.it/~biferale/) (INFN, Univ. Rome “Tor Vergata” - IT): <br> _"Machine Learning tools for PDEs and PDEs tools for Machine Learning"_      |   [[video](https://youtu.be/tF60kf_JTDI), [abstract and bio](https://ellisqphml.github.io/ellisphilab2021_abstract_and_bio#machine-learning-tools-for-pdes-and-pdes-tools-for-machine-learning-luca-biferale)] |
+| 15:55 | [**Kristel Michielsen**](https://www.fz-juelich.de/SharedDocs/Personen/IAS/JSC/EN/staff/michielsen_k.html) (Jülich Supercomputing Centre and RWTH Aachen University - DE): <br> _"Quantum classical hybrid computing models in modular HPC systems with potential applications in Earth Observation"_      |   [[video](https://youtu.be/erAF1JmqXnk), [abstract and bio](https://ellisqphml.github.io/ellisphilab2021_abstract_and_bio#quantum-classical-hybrid-computing-models-in-modular-hpc-systems-with-potential-applications-in-earth-observation-kristel-michielsen)] |
+| 16:25 | [**Workshop Organizers**](): <br> _"Closing Address"_      |   [[video](https://youtu.be/kHnkoLfP098)] |
 | 16:45 | **15 Minutes Breakout Session** |  |
 
 ### Debriefing Roundtable (Closed Session)
