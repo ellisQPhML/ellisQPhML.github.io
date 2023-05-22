@@ -94,3 +94,5 @@ The Ellis program is realized through the active involvement of the Ellis Fellow
 [**Ellis QPhML 2020 workshop**](https://ellisqphml.github.io/qphml2020). Virtual. Milan - Tübingen - Nijmegen, 6-8 July 2020
 
 [**Ellis QPhML - ESA Phi Lab 2021 workshop**](https://ellisqphml.github.io/ellisphilab2021). Virtual. 27 May 2021
+
+[**Ellis QPhML - Frontiers of Neuromorphic Computing**](https://indico.mpl.mpg.de/event/15/). Max Planck Institute for the Science of Light, Erlangen. 5-7 September 2023
